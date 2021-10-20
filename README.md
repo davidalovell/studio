@@ -1,1 +1,1 @@
-# Studio Setup Documents
+# Studio Setup
