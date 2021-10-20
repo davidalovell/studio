@@ -8,12 +8,12 @@ Use it as a live processor +Morphagene
 Use it to record loops +Morphagene
 Learn how to use button combos +Morphagene
 Learn how to use reels +Morphagene
-CV control! +Morphagene
+CV control! Consider making a little case with Maths +Morphagene
 
 #FXaid
 Plan presets for FXaid again +FXaid
 Try a few out and then upload a few simple ones in that you can learn +FXaid
-More reverb effects! 
+More reverb effects! +FXaid
 
 #Modular
 Learn how to use Yarns +Modular
@@ -28,22 +28,21 @@ Use Kria as a sequencer +Isms
 Label patchbay +Patchbay
 
 #Midi
-New layout +Midi
-Plug in Midi cables
-Set up MidiHub
-Use Pipes script on Norns?
+Plug in usb cables
+Plug in midi cables
+?Set up MidiHub
 
 #Recording
-Finally record the patch, do multiple takes in Ableton! +Isms
 Have an 'always on' recording set up +Recording
 Ableton Live tutorial +Recording
 
 #FixGear
 Tascam-424 - and then ?sell +FixGear
-Marantz PMD-222 - and then ?sell +FixGear
+Marantz PMD-222 #2 - and then ?sell +FixGear
 
 #SellGear
 FH-2
 Dreadbox Erebus v3
 Sascha Van Ott system - 6x modules and case
+Atlantis system
 23x WMD SSF modules
