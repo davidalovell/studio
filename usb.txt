@@ -1,0 +1,57 @@
+**HOST TO DEVICE**
+Synth usb hub
+  Digitakt
+  Digitone
+  A4
+  Keystep
+  Nakedboards controller
+ 
+Mac usb hub
+  Keyboard
+  Crow
+  Grid
+  Mixer
+ 
+Norns usb hub
+  Sweet sixteen
+  16n
+  OP-1
+  Keyboard
+  Midihub - for modular, erebus, timeline, bigsky (stuff that requires clock)
+  UM-One - for analog drive and boum
+  Mac usb hub
+  --
+  (Grid)
+  (Arc)
+  (Crow switched usb hub)
+ 
+ 
+**DEVICE TO HOST**
+Crow
+  Crow switched usb hub
+    Norns
+    Mac usb hub
+      Mac
+ 
+Keyboard
+  Keyboard 4-way usb switch
+    Mac usb hub (A)
+      Mac
+    Norns usb hub (B)
+      Norns
+    Teletype 2-way usb switch (C)
+      Teletype
+    Work laptop (D)
+ 
+Grid
+  Grid 4-way usb switch
+    Mac usb hub (A)
+    Norns (B)
+    Teletype 2-way usb switch (C)  --either this or (D)
+      Teletype
+    Ansible 1 (D) -- either this or (C)
+ 
+Arc
+  Arc 2-way usb switch
+    Norns
+    Ansible 2
