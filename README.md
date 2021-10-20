@@ -1,6 +1,6 @@
 # Studio Setup
 
-#To do
+## To do
 
 - Finish usb/midi planning
 - Use norns with digitakt, try to solve midi detection issue
