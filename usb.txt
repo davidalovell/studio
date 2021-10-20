@@ -19,7 +19,7 @@ Norns usb hub
   16n
   Midihub - for modular, erebus, timeline, bigsky (requires clock)
   UM-One - for analog drive and boum (chained)
-  Mac usb hub
+  Synth usb hub
   --
   (Other norns usb ports: Grid, Arc, Crow switched usb hub)
  
