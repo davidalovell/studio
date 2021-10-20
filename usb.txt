@@ -8,22 +8,20 @@ Synth usb hub
  
 Mac usb hub
   Keyboard
-  Crow
+  Crow switched usb hub
   Grid
   Mixer
  
 Norns usb hub
+  Keyboard
+  OP-1
   Sweet sixteen
   16n
-  OP-1
-  Keyboard
-  Midihub - for modular, erebus, timeline, bigsky (stuff that requires clock)
-  UM-One - for analog drive and boum
+  Midihub - for modular, erebus, timeline, bigsky (requires clock)
+  UM-One - for analog drive and boum (chained)
   Mac usb hub
   --
-  (Grid)
-  (Arc)
-  (Crow switched usb hub)
+  (Other norns usb ports: Grid, Arc Crow switched usb hub)
  
  
 **DEVICE TO HOST**
