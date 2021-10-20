@@ -21,35 +21,37 @@ Norns usb hub
   UM-One - for analog drive and boum (chained)
   Mac usb hub
   --
-  (Other norns usb ports: Grid, Arc Crow switched usb hub)
+  (Other norns usb ports: Grid, Arc, Crow switched usb hub)
  
  
 **DEVICE TO HOST**
 Crow
   Crow switched usb hub
-    Norns
-    Mac usb hub
-      Mac
+    1:  Norns
+    2:  Mac usb hub
+          Mac
  
 Keyboard
   Keyboard 4-way usb switch
-    Mac usb hub (A)
-      Mac
-    Norns usb hub (B)
-      Norns
-    Teletype 2-way usb switch (C)
-      Teletype
-    Work laptop (D)
+    A:  Mac usb hub
+          Mac
+    B:  Norns usb hub
+          Norns
+    C:  Teletype 2-way usb switch
+          1.  Teletype
+          2.  (2nd device = Grid)
+    D:  Work laptop
  
 Grid
   Grid 4-way usb switch
-    Mac usb hub (A)
-    Norns (B)
-    Teletype 2-way usb switch (C)  --either this or (D)
-      Teletype
-    Ansible 1 (D) -- either this or (C)
+    A:  Mac usb hub
+    B:  Norns
+    C:  Teletype 2-way usb switch
+          1.  Teletype
+          2.  (2nd device = Keyboard)
+    D: Ansible 1
  
 Arc
   Arc 2-way usb switch
-    Norns
-    Ansible 2
+    1:  Norns
+    2:  Ansible 2
