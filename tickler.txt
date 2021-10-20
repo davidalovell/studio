@@ -1,3 +1,6 @@
+#Plinky
+Build Plinky
+
 #Palette
 Fix i2c issues - try crow with one thing at a time
 Try a configuration without XIIO and with Ansible instead
@@ -23,6 +26,7 @@ Crow and M4L +Isms
 Use crow as a way to link with M4L +Isms
 Use teletype as a 'hub' +Isms
 Use Kria as a sequencer +Isms
+Fix ER-301
 
 #Patchbay
 Label patchbay +Patchbay
