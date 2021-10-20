@@ -1,3 +1,6 @@
+Midi connections
+usb and 5-pin
+
 **HOST TO DEVICE**
 Synth usb hub
   Digitakt
@@ -18,7 +21,20 @@ Norns usb hub
   Sweet sixteen
   16n
   Midihub - for modular, erebus, timeline, bigsky (requires clock)
-  UM-One - for analog drive and boum (chained)
+    In  A:  Keyboard
+    In  B:  Nakedboards controller
+    In  C:  Digitakt
+    In  D:  Digitone
+    
+    Out A:  Modular
+    Out B:  Erebus
+    Out C:  Timeline
+    Out D:  Bigsky
+    
+  UM-One
+    In:     
+    Out:    Analog Drive, chained to OTO BOUM
+    
   Synth usb hub
   --
   (Other norns usb ports: Grid, Arc, Crow switched usb hub)
