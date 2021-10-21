@@ -11,8 +11,10 @@
 - Find or write a norns script that can co-ordinate USB midi for you
 
 ## Setup
-- Finish USB planning (finish MIDI planning later)
+- Finish USB planning
 - USB wiring
+- (Finish MIDI planning later)
 
 ## Tickler
 - tickler.txt
+- [I'm a relative reference to a repository file](../tickler.txt)
