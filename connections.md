@@ -67,7 +67,7 @@
 - Out A: Modular
 - Out B: Erebus
 - Out C: Timeline
-- Out D: Bigsky
+- Out D: Big Sky
 
 ### UM-One
 - In:
