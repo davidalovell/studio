@@ -1,6 +1,6 @@
-# Connections #
-## USB host to device ##
-### Norns USB hub ###
+# Connections
+## USB host to device
+### Norns USB hub
 - Keyboard
 - OP-1
 - Sweet sixteen
@@ -10,7 +10,7 @@
 - **UM-One**
 - *(Other norns usb ports: Grid, Arc, Crow switched usb hub)*
 
-### Synth USB hub ###
+### Synth USB hub
 - Digitakt
 - Digitone
 - A4
@@ -18,22 +18,22 @@
 - FH-2 *(NOT DETECTED BY NORNS)*
 - Nakedboards controller *(NOT DETECTED BY NORNS)*
  
-### Mac USB hub ###
+### Mac USB hub
 - Keyboard
 - Grid
 - Mixer
 - **Crow switched USB hub**
 
-### Crow switched USB hub ###
+### Crow switched USB hub
 - Crow
 
-## USB device to host ##
-### Crow ###
+## USB device to host
+### Crow
 - Crow switched USB hub
   - Norns
   - **Mac USB hub**
 
-### Keyboard ###
+### Keyboard
 - Keyboard 4-way USB switch
   - A: **Mac USB hub**
   - B: **Norns USB hub**
@@ -42,7 +42,7 @@
     - (2nd device = Grid)
   - D: Work laptop
  
-### Grid ###
+### Grid
 - Grid 4-way usb switch
   - A: **Mac USB hub**
   - B: Norns
@@ -51,14 +51,14 @@
     - (2nd device = Keyboard)
   - D: Ansible 1
  
-### Arc ###
+### Arc
 - Arc 2-way usb switch
   - 1: Norns
   - 2: Ansible 2
 
 
-## MIDI ##
-### MidiHub ###
+## MIDI
+### MidiHub
 - In A:  
 - In B: Nakedboards controller
 - In C: Digitakt
@@ -68,7 +68,7 @@
 - Out C: Timeline
 - Out D: Bigsky
 
-### UM-One ###
+### UM-One
 - In:
 - Out: Analog Drive, chained to OTO BOUM
  
