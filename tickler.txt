@@ -1,3 +1,5 @@
+#Ticker (todo.txt format)
+
 #Plinky
 Build Plinky
 
