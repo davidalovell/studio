@@ -1,5 +1,5 @@
-Midi connections
-usb and 5-pin
+# MIDI Connectsctions #
+USB and 5-pin MIDI
 
 **HOST TO DEVICE**
 Synth usb hub
