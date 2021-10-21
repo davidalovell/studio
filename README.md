@@ -13,4 +13,6 @@
 ## Setup
 - Finish USB planning (finish MIDI planning later)
 - USB wiring
+
+## Tickler
 - tickler.txt
