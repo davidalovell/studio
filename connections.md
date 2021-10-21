@@ -1,6 +1,7 @@
 # Connections
 ## USB host to device
 ### Norns USB hub
+- Wifi
 - Keyboard
 - OP-1
 - Sweet sixteen
