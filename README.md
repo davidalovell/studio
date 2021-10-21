@@ -16,5 +16,4 @@
 - (Finish MIDI planning later)
 
 ## Tickler
-- tickler.txt
-- [I'm a relative reference to a repository file](../tickler.txt)
+- [tickler.txt](../main/tickler.txt)
