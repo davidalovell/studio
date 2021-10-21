@@ -4,7 +4,7 @@
 - Keyboard
 - OP-1
 - Sweet sixteen
-- (16n)
+- 16n *(NOT DETECTED BY NORNS IF SWEET SIXTEEN CONNECTED)*
 - **Synth USB hub**
 - **MidiHub**
 - **UM-One**
@@ -15,8 +15,8 @@
 - Digitone
 - A4
 - Keystep
-- FH-2 (NOT DETECTED BY NORNS)
-- Nakedboards controller (NOT DETECTED BY NORNS)
+- FH-2 *(NOT DETECTED BY NORNS)*
+- Nakedboards controller *(NOT DETECTED BY NORNS)*
  
 ### Mac USB hub ###
 - Keyboard
@@ -31,15 +31,12 @@
 ### Crow ###
 - Crow switched USB hub
   - Norns
-  - Mac USB hub
-    - Mac
+  - **Mac USB hub**
 
 ### Keyboard ###
 - Keyboard 4-way USB switch
-  - A: Mac USB hub
-    - Mac
-  - B: Norns USB hub
-    - Norns
+  - A: **Mac USB hub**
+  - B: **Norns USB hub**
   - C: Teletype 2-way USB switch
     - Teletype
     - (2nd device = Grid)
@@ -47,8 +44,7 @@
  
 ### Grid ###
 - Grid 4-way usb switch
-  - A: Mac USB hub
-    - Mac
+  - A: **Mac USB hub**
   - B: Norns
   - C: Teletype 2-way usb switch
     - Teletype
