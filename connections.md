@@ -13,8 +13,8 @@
 - OP-1
 - Sweet sixteen (16n)
 - 16n (16n 2)
-- **Crow switched USB hub**
-- **Synth USB hub**
+- *Crow switched USB hub*
+- *Synth USB hub*
 
 ### Synth USB hub
 - Digitakt
@@ -27,7 +27,7 @@
 - Keyboard
 - Grid
 - Mixer
-- **Crow switched USB hub**
+- *Crow switched USB hub*
 
 ### Crow switched USB hub
 - Crow
@@ -36,18 +36,18 @@
 ### Crow
 - Crow switched USB hub
   - Norns
-  - **Mac USB hub**
+  - *Mac USB hub*
 
 ### Keyboard
 - Keyboard 4-way USB switch
-  - A: **Mac USB hub**
-  - B: **Norns USB hub**
+  - A: *Mac USB hub*
+  - B: *Norns USB hub*
   - C: Teletype 2-way USB switch
   - D: Work laptop
  
 ### Grid
 - Grid 4-way usb switch
-  - A: **Mac USB hub**
+  - A: *Mac USB hub*
   - B: Norns
   - C: Teletype 2-way USB switch
   - D: Ansible 1
