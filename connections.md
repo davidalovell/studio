@@ -1,23 +1,27 @@
 # Connections
 ## USB host to device
+
+### Norns
+- Grid
+- Arc
+- Midihub
+- **Norns USB hub**
+
 ### Norns USB hub
 - Wifi
 - Keyboard
 - OP-1
-- Sweet sixteen
-- 16n *(NOT DETECTED BY NORNS IF SWEET SIXTEEN CONNECTED)*
+- Sweet sixteen (16n)
+- 16n (16n 2)
+- **Crow switched USB hub**
 - **Synth USB hub**
-- **MidiHub**
-- **UM-One**
-- *(Other norns usb ports: Grid, Arc, Crow switched usb hub)*
 
 ### Synth USB hub
 - Digitakt
 - Digitone
-- A4
+- Analog Four
 - Keystep
-- FH-2 *(NOT DETECTED BY NORNS)*
-- Nakedboards controller *(NOT DETECTED BY NORNS)*
+- MC-24
  
 ### Mac USB hub
 - Keyboard
@@ -39,21 +43,22 @@
   - A: **Mac USB hub**
   - B: **Norns USB hub**
   - C: Teletype 2-way USB switch
-    - Teletype
-    - (2nd device = Grid)
   - D: Work laptop
  
 ### Grid
 - Grid 4-way usb switch
   - A: **Mac USB hub**
   - B: Norns
-  - C: Teletype 2-way usb switch
-    - Teletype
-    - (2nd device = Keyboard)
+  - C: Teletype 2-way USB switch
   - D: Ansible 1
+
+### Teletype
+- Teletype 2-way USB switch
+  - 1: Keyboard
+  - 2: Grid
  
 ### Arc
-- Arc 2-way usb switch
+- Arc 2-way USB switch
   - 1: Norns
   - 2: Ansible 2
 
