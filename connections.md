@@ -71,7 +71,7 @@
 - In D:
 - Out A: Modular
 - Out B: Erebus
-- Out C: **Pedal chain**
+- Out C: *Pedal chain*
 - Out D:
 
 ### Pedal chain
