@@ -64,17 +64,18 @@
 
 
 ## MIDI
-### MidiHub
+### Midihub
 - In A:  
-- In B: Nakedboards controller
-- In C: Digitakt
-- In D: Digitone
+- In B:
+- In C:
+- In D:
 - Out A: Modular
 - Out B: Erebus
-- Out C: Timeline
-- Out D: Big Sky
+- Out C: **Pedal chain**
+- Out D:
 
-### UM-One
-- In:
-- Out: Analog Drive, chained to OTO BOUM
- 
+### Pedal chain
+- 1: Timeline
+- 2: BigSky
+- 3: Analog Drive
+- 4: OTO Boum
