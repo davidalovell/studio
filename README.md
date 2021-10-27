@@ -9,11 +9,11 @@
 - Make a song on digitone and norns
 
 ## Script
-- Use sequins, cs(sequins helper), seq and clock
-- Develop cs(sequins helper) so it either returns the current index or nil depending on arguments provided
-- Should cs(sequins helper) be an object?
-- Create functions that are called for each part
+- Use sequins, seq and clock
+- Make Vox a parent object and then voices are private objects to vox (a bit like lattice) 
 - Consider using sequins, seq and lattice (but how do you reset a lattice?)
+- Create functions that are called for each part
+
 
 ## Setup
 - Find the ground loop with the USB wiring
