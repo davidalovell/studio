@@ -8,6 +8,9 @@
 - Make a song on digitone and norns
 
 ## Script
+- Make sequins return 'nul'
+- If val == 'nul' then return
+- 
 - Use sequins, seq and clock
 - Make Vox a parent object and then voices are private objects to vox (a bit like lattice) 
 - Consider using sequins, seq and lattice (but how do you reset a lattice?)
