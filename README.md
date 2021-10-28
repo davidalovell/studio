@@ -1,7 +1,6 @@
 # To do
 
 ## Next
-- Find the ground loop with the USB wiring
 - Work on script
 
 ## Music
