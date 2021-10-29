@@ -20,8 +20,6 @@ Plan presets for FXaid again +FXaid
 Try a few out and then upload a few simple ones in that you can learn +FXaid
 More reverb effects! +FXaid
 
-#Modular
-Learn how to use Yarns +Modular
 
 #Isms
 Crow and M4L +Isms
@@ -34,9 +32,6 @@ Fix ER-301
 Label patchbay +Patchbay
 
 #Midi
-Plug in usb cables
-Plug in midi cables
-?Set up MidiHub
 
 #Recording
 Have an 'always on' recording set up +Recording
