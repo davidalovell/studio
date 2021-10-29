@@ -1,7 +1,7 @@
 # To do
 
 ## Next
-- Make a skip and every action in lattice
+- Make a skip action in lattice
 - Integrate this with digitone
 - Create functions that are called for each new musical part
 - Build a song (AND SAVE IT AS A BRANCH WITH INSTRUCTIONS)
