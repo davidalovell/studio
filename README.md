@@ -1,25 +1,23 @@
 # To do
 
 ## Next
-- Work on script
+- Copy new lattice from https://github.com/monome/norns/blob/main/lua/lib/lattice.lua
+- Make a skip and every action in lattice
+- Make a version of sequins that has modulus setting for every, and hold function - minimal editing
+- Integrate this with digitone
+- Create functions that are called for each new musical part
+- Build a song (AND SAVE IT AS A BRANCH WITH INSTRUCTIONS)
 
 ## Music
 - Spend at least 10 minutes recording every session
-- Make a song on digitone and norns
 
-## Script
-- Make sequins return 'nul'
-- If val == 'nul' then return
-- 
-- Use sequins, seq and clock
+## Script ideas
+- Find or write a norns script that can co-ordinate USB midi for you
 - Make Vox a parent object and then voices are private objects to vox (a bit like lattice) 
-- Consider using sequins, seq and lattice (but how do you reset a lattice?)
-- Create functions that are called for each part
-
 
 ## Setup
-- Find the ground loop with the USB wiring
-- Find or write a norns script that can co-ordinate USB midi for you
+- Fix ER-301
+- Build Plinky
 
 ## Tickler
 - [tickler.txt](../main/tickler.txt)
