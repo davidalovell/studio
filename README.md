@@ -1,9 +1,7 @@
 # To do
 
 ## Next
-- Copy new lattice from https://github.com/monome/norns/blob/main/lua/lib/lattice.lua
 - Make a skip and every action in lattice
-- Make a version of sequins that has modulus setting for every, and hold function - minimal editing
 - Integrate this with digitone
 - Create functions that are called for each new musical part
 - Build a song (AND SAVE IT AS A BRANCH WITH INSTRUCTIONS)
