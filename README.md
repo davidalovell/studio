@@ -11,6 +11,7 @@
 
 ## Script ideas
 - Find or write a norns script that can co-ordinate USB midi for you
+- Make it so Vox can be passed an table k,v with any remainders passed to synth
 - Make Vox a parent object and then voices are private objects to vox (a bit like lattice) 
 
 ## Setup
