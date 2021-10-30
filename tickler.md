@@ -25,7 +25,7 @@
 - Fix ER-301
 - Crow and Live link
 - Crow and M4L
-- Use teletype as a 'hub'
+- Patch based on TT
 - Use Kria as a sequencer
 
 ## Patchbay
