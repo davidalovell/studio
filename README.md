@@ -1,8 +1,9 @@
 # To do
 
 ## Next
+- Make some music on the modular
+- Meadowphysics and JF
 - Integrate script with digitone
-- Fix ER-301 i2c issue
 
 ## Music
 - Turn on norns tape or recorder or Live
