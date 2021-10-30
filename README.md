@@ -5,7 +5,7 @@
 - Fix ER-301 i2c issue
 
 ## Music
-- Turn on norns tape!!!
+- Turn on norns tape or recorder or Live
 - Create functions that are called for each new musical part
 - Build a song (and save it as a branch)
 - Spend at least 10 minutes recording every session
