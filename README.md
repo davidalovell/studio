@@ -1,7 +1,6 @@
 # To do
 
 ## Next
-- Make a skip action in lattice
 - Integrate this with digitone
 
 ## Music
