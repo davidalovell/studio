@@ -1,7 +1,7 @@
 # To do
 
 ## Next
-- Integrate this with digitone
+- Integrate script with digitone
 
 ## Music
 - Turn on norns tape!!!
@@ -16,7 +16,7 @@
 - Make Vox a parent object and then voices are private objects to vox (a bit like lattice) 
 
 ## Setup
-- Fix ER-301
+- Fix ER-301 i2c issue
 
 ## Tickler
 - [tickler.md](../main/tickler.md)
