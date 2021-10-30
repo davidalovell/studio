@@ -1,49 +1,48 @@
-#Ticker (todo.txt format)
+# Ticker
 
-#Plinky
-Build Plinky
+## DIY
+- Build Plinky
 
-#Palette
-Fix i2c issues - try crow with one thing at a time
-Try a configuration without XIIO and with Ansible instead
-Try a configuration with Teletype
+## Palette
+- Fix i2c issues - try crow with one thing at a time
+- Try with new txb
+- Try a configuration with Ansible
+- Try a configuration with Teletype
 
-#Morphagene
-Use it as a live processor +Morphagene
-Use it to record loops +Morphagene
-Learn how to use button combos +Morphagene
-Learn how to use reels +Morphagene
-CV control! Consider making a little case with Maths +Morphagene
+## Morphagene
+- Use it as a live processor
+- Use it to record loops
+- Learn how to use button combos
+- Learn how to use reels
+- CV control with crow or txo
 
-#FXaid
-Plan presets for FXaid again +FXaid
-Try a few out and then upload a few simple ones in that you can learn +FXaid
-More reverb effects! +FXaid
+## FXaid
+- Plan presets for FXaid again 
+- Try a few out and then upload a few simple ones in that you can learn 
+- More reverb effects! 
 
+## Isms
+- Fix ER-301
+- Crow and Live link
+- Crow and M4L
+- Use teletype as a 'hub'
+- Use Kria as a sequencer
 
-#Isms
-Crow and M4L +Isms
-Use crow as a way to link with M4L +Isms
-Use teletype as a 'hub' +Isms
-Use Kria as a sequencer +Isms
-Fix ER-301
+## Patchbay
+- Label patchbay +Patchbay
 
-#Patchbay
-Label patchbay +Patchbay
+## Recording
+- Have an 'always on' recording set up
+- Ableton Live tutorial
 
-#Midi
+## Fix Gear
+- Tascam-424
+- Marantz PMD-222 #2
 
-#Recording
-Have an 'always on' recording set up +Recording
-Ableton Live tutorial +Recording
-
-#FixGear
-Tascam-424 - and then ?sell +FixGear
-Marantz PMD-222 #2 - and then ?sell +FixGear
-
-#SellGear
-FH-2
-Dreadbox Erebus v3
-Sascha Van Ott system - 6x modules and case
-Atlantis system
-23x WMD SSF modules
+## Sell Gear
+- FH-2
+- Dreadbox Erebus v3
+- Sascha Van Ott system - 6x modules and case
+- Atlantis system
+- 23x WMD SSF modules
+- Bits and bobs
