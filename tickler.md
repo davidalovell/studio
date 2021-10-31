@@ -1,5 +1,10 @@
 # Ticker
 
+## Script ideas
+- Make it so Vox can be passed a table k,v with any remainders passed to synth
+- Make Vox a parent object and then voices are private objects to vox (a bit like lattice)
+- Finalise and make it into a vox repo
+
 ## DIY
 - Build Plinky
 
