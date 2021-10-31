@@ -16,6 +16,7 @@
 
 ## Setup
 - Find or write a norns script that can co-ordinate USB midi for you (?passthrough)
+- Label patchbay
 
 ## Tickler
 - [tickler.md](../main/tickler.md)

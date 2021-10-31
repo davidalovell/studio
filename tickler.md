@@ -33,18 +33,15 @@
 - Patch based on TT
 - Use Kria as a sequencer
 
-## Patchbay
-- Label patchbay +Patchbay
-
 ## Recording
 - Have an 'always on' recording set up
-- Ableton Live tutorial
+- Ableton Live course
 
-## Fix Gear
+## Fix
 - Tascam-424
 - Marantz PMD-222 #2
 
-## Sell Gear
+## Sell
 - FH-2
 - Dreadbox Erebus v3
 - Sascha Van Ott system - 6x modules and case
