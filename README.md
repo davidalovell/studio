@@ -1,14 +1,15 @@
 # To do
 
 ## Next
-- Create functions that are called for each song part
-- Work on digitone script and practise
+- Digitone script: create functions that are called for each song part
+- Digitone script: simple norns interface for calling each new part
+
+## Recording
+- Turn on norns tape or recorder or Live
+
+## Modular
 - Make some music on the modular (Kria, JF)
 - Learn how to save sequences on Kria
-
-## Music
-- Turn on norns tape or recorder or Live
-- Spend at least 10 minutes recording every session
 
 ## Github
 - Clean up vox_norns
