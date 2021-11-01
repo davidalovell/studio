@@ -5,8 +5,15 @@
 - Make Vox a parent object and then voices are private objects to vox (a bit like lattice)
 - Finalise and make it into a vox repo
 
+## Github
+- Clean up vox_norns
+- Rename Vox to vox_crow
+
 ## DIY
 - Build Plinky
+
+## Music theory
+- Lydian chromatic theory
 
 ## Palette
 - Fix i2c issues - try crow with one thing at a time

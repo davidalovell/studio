@@ -3,12 +3,9 @@
 ## Next
 - Start a song that is less busy
 
-## Music theory
-- Lydian chromatic theory
-
 ## Script
-- Send clock to digitakt via usb
-- Digitone script: simple norns interface for calling each new part
+- Also send clock to digitakt via usb
+- Simple norns interface for calling each new part
 
 ## Digitakt
 - Find a kit you like
@@ -20,10 +17,6 @@
 ## Modular
 - Make some music on the modular (Kria, JF)
 - Learn how to save sequences on Kria
-
-## Github
-- Clean up vox_norns
-- Rename Vox to vox_crow
 
 ## Setup
 - Find or write a norns script that can co-ordinate USB midi for you (?passthrough)
