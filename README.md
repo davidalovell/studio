@@ -3,8 +3,12 @@
 ## Next
 - Digitone script: create functions that are called for each song part
 - Digitone script: simple norns interface for calling each new part
+- Lydian chromatic theory
 - Digitone script: also send clock to digitakt via usb
-- Digitakt: find some free drum samples you like
+
+## Digitakt
+- Find a kit you like
+- Sample some digitone drums
 
 ## Recording
 - Turn on norns tape or recorder or Live
