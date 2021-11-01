@@ -1,10 +1,14 @@
 # To do
 
 ## Next
-- Digitone script: create functions that are called for each song part
-- Digitone script: simple norns interface for calling each new part
+- Start a song that is less busy
+
+## Music theory
 - Lydian chromatic theory
-- Digitone script: also send clock to digitakt via usb
+
+## Script
+- Send clock to digitakt via usb
+- Digitone script: simple norns interface for calling each new part
 
 ## Digitakt
 - Find a kit you like
