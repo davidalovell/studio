@@ -3,6 +3,8 @@
 ## Next
 - Digitone script: create functions that are called for each song part
 - Digitone script: simple norns interface for calling each new part
+- Digitone script: also send clock to digitakt via usb
+- Digitakt: find some free drum samples you like
 
 ## Recording
 - Turn on norns tape or recorder or Live
