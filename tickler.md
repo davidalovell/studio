@@ -13,7 +13,7 @@
 - Build Plinky
 
 ## Music theory
-- Lydian chromatic theory
+- Lydian chromatic concept
 
 ## Palette
 - Fix i2c issues - try crow with one thing at a time
