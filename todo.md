@@ -1,7 +1,7 @@
 # To do
 
 ## Next
-- Start a song that is less busy - [songideas.md](..main/songideas.md)
+- Start a song that is less busy ([songideas.md](songideas.md))
 
 ## Script
 - Also send clock to digitakt via usb
@@ -22,5 +22,5 @@
 - Label patchbay
 
 ## Tickler
-- [songideas.md](..main/songideas.md)
-- [tickler.md](../main/tickler.md)
+- [songideas.md](songideas.md)
+- [tickler.md](tickler.md)
