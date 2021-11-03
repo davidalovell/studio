@@ -18,6 +18,7 @@
 - Learn how to save sequences on Kria
 
 ## Setup
+- Why does norns only sometimes detect Digitakt, Digitone ?try another usb hub
 - Work out how to use Passthrough
 - Label patchbay
 
