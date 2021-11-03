@@ -2,13 +2,16 @@
 
 ## Next
 - Start a song that is less busy ([songideas.md](songideas.md))
+- Find a kit I like for Digitakt ?blankform.ms
 
 ## Script
 - Also send clock to digitakt via usb
 - Simple norns interface for calling each new part
 
-## Digitakt
-- Find a kit you like
+## Holiday
+- Digitakt
+- Digitone
+- Norns
 
 ## Recording
 - Turn on norns tape or recorder or Live
