@@ -18,6 +18,7 @@
 - Tonal rhythmic sound (a la noise trees)
 - Plucked double bass sound
 - Crunchy snare - minimal, at the end
+- Hat
 - Flourashes of note that somehow fall into chords - I think this bit will either be straightforward, or quite hard to achieve
 
 ### Details
@@ -30,9 +31,12 @@
   - Variation through sample start modulation, envelope release modulation
   - Bit crush sound very slightly
   - Some variable distortion, using locked trigs
+- Snare
+- Hat
 - Bass
   - Bass sound (with hair a la Jogging House, but also sounds a bit like a double bass)
   - Bass sometimes has fills, sometimes not
+  - Bass notes that ring out
 - Script
   - ?Write a script that does this, similar to the way you used construct baslines on modular - one sequence is the main bassline - this is prioritised over another bassline which has a lot of probabilistic trigs to do, also polymetric
   - Script does the following:
