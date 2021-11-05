@@ -1,10 +1,7 @@
 # To do
 
 ## Next
-- Put toegether holiday setup (Norns, Digitakt, Digitone)
-- Digitakt for rhythmic elements, some tonal ?bass
-- Consider using digitakt for sampled chords, or sampled flourishes of notes, play asynchronusly
-- Digitone for chords, or note flourishes
+- Build holiday setup (Norns, Digitakt, Digitone)
 - Start a song that is less busy ([songideas.md](songideas.md))
 
 ## Script
