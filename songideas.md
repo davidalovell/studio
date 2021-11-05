@@ -14,6 +14,12 @@
 - - Part 3: Outro to Blue Chicago Moon
 
 ## Song with a beat
+Elements
+- Tonal rhythmic sound (a la noise trees)
+- Plucked double bass sound
+- Crunchy snare - minimal, at the end
+- Flourashes of note that somehow fall into chords - I think this bit will either be straightforward, or quite hard to achieve
+- 
 - Bass drum
   - Digitakt
   - Tonal beat / bass drum using Digitakt
