@@ -9,9 +9,9 @@
 - Flourishes of notes
 - Drums - some open high hats
 - Three parts:
-- - Part 1: One chord for ages, then switch to another ?non-diatonic, then back
-- - Part 2: Another chord sequence
-- - Part 3: Outro to Blue Chicago Moon
+  - Part 1: One chord for ages, then switch to another ?non-diatonic, then back
+  - Part 2: Another chord sequence
+  - Part 3: Outro to Blue Chicago Moon
 
 ## Song with a beat
 ### Elements
@@ -19,7 +19,8 @@
 - Plucked double bass sound
 - Crunchy snare - minimal, at the end
 - Flourashes of note that somehow fall into chords - I think this bit will either be straightforward, or quite hard to achieve
-- 
+
+### Details
 - Bass drum
   - Digitakt
   - Tonal beat / bass drum using Digitakt
