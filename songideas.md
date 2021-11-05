@@ -15,7 +15,7 @@
 
 ## Song with a beat
 - Bass drum
-- - Digitakt
+ - Digitakt
 - - Tonal beat / bass drum using Digitakt
 - - Make it the tonic note
 - - Something ?saw toothed or ?wavetable like sound
