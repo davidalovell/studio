@@ -5,6 +5,15 @@
 - Make Vox a parent object and then voices are private objects to vox (a bit like lattice)
 - Finalise and make it into a vox repo
 
+## Setup
+- Why does norns only sometimes detect Digitakt, Digitone ?try another usb hub
+- Work out how to use Passthrough
+- Label patchbay
+
+## Modular
+- Make some music on the modular (Kria, JF)
+- Learn how to save sequences on Kria
+
 ## Github
 - Clean up vox_norns
 - Rename Vox to vox_crow
