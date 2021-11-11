@@ -1,7 +1,8 @@
 # To do
 
 ## Next
-- Build script that uses vox, seq, s and lattice
+- Build script that uses vox, seq, sequins and lattice
+- Save vox, seq as github libs
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
 
 # Process
@@ -11,10 +12,7 @@
 - Save the digitone songs in a meaningful way
 
 # Sound collages
-- Use digitakt to record little samples of music made
-- Record things to norns tape
-- Keep tempo the same (or don't)
-- Import and build up a collage in Live
+- Import from ANY recording and build up a collage in Live
 
 ## Script
 - Simple norns interface for calling each new part
@@ -22,7 +20,11 @@
 - Consider making a grand unified vox,seq,sequins,lattice
 
 ## Recording
-- Turn on norns tape or recorder or Live
+- Build up a collection of general recordings rather than final songs
+- Record samples into digitakt
+- Turn on norns tape
+- Turn on tape recorder
+- Turn on ableton
 
 ## Tickler
 - [songideas.md](songideas.md)
