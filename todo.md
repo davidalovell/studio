@@ -17,7 +17,6 @@
 ## Script
 - Simple norns interface for calling each new part
 - Consider making seq part of vox, a seq is automatically created when a vox is created, there is a function in vox to call its contained seq
-- Consider making a grand unified vox,seq,sequins,lattice
 
 ## Recording
 - Build up a collection of general recordings rather than final songs
