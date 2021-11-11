@@ -5,12 +5,15 @@
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
 
 # Process
-- Use norns as a sequencer for ideas, but use digitakt or digitone as a way to record the sequences
-- Save different sequences in different patterns, this would be a good way to build songs
+- For a new song, create a new github branch
+- Use norns as a sequencer for ideas, but use digitone to record the sequences
+- Save different sequences in different patterns
+- Save the digitone songs in a meaningful way
+
+# Sound collages
 - Use digitakt to record little samples of music made
-- Just remember to save the songs in a meaningful way for later
-- Start a song that is less busy ([songideas.md](songideas.md))
-- Keep tempo the same, and just record some stuff into norns
+- Record things to norns tape
+- Keep tempo the same (or don't)
 - Import and build up a collage in Live
 
 ## Script
