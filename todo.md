@@ -1,8 +1,10 @@
 # To do
 
 ## Next
-- Build script that uses vox, seq, sequins and lattice
-- Save vox, seq as github libs
+- Fix vox_norns repo
+- Rename vox_norns
+- Use musicitil instead of mask
+- Save vox, seq as github libs and leave alone
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
 
 # Process
