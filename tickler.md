@@ -1,9 +1,7 @@
 # Ticker
 
 ## Script ideas
-- Make it so Vox can be passed a table k,v with any remainders passed to synth
-- Make Vox a parent object and then voices are private objects to vox (a bit like lattice)
-- Finalise and make it into a vox repo
+- Consider making Vox a parent object and then voices are private objects to vox (a bit like lattice)
 
 ## Setup
 - Why does norns only sometimes detect Digitakt, Digitone ?try another usb hub
@@ -43,7 +41,6 @@
 - More reverb effects! 
 
 ## Isms
-- Fix ER-301
 - Crow and Live link
 - Crow and M4L
 - Patch based on TT

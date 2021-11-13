@@ -1,11 +1,8 @@
 # To do
 
 ## Next
-- Fix vox_norns repo
-- Rename vox_norns
-- Use musicitil instead of mask
-- Save vox, seq as github libs and leave alone
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
+- Simple norns interface for calling each new part
 
 # Process
 - For a new song, create a new github branch
@@ -17,7 +14,8 @@
 - Import from ANY recording and build up a collage in Live
 
 ## Script
-- Simple norns interface for calling each new part
+- Use musicitil instead of mask
+- Save vox, seq as github libs and leave alone
 - Consider making seq part of vox, a seq is automatically created when a vox is created, there is a function in vox to call its contained seq
 
 ## Recording
