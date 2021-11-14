@@ -1,7 +1,6 @@
 # To do
 
 ## Next
-- Bring standard midisynth code into vox
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
 - Simple norns interface for calling each new part
 
