@@ -1,6 +1,7 @@
 # To do
 
 ## Next
+- Add 'clock.wait' function to synth and implement - this may mean that you no longer need seq (apart from skip)
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
 - Simple norns interface for calling each new part
 
