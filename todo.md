@@ -1,30 +1,35 @@
 # To do
 
 ## Next
-- Add 'clock.wait' function to synth and implement - this may mean that you no longer need seq (apart from skip)
+- Take the midi function out of .synth() and but in general code
+- Take the :action() out of .synth()
+- Change :play() so it calls :action(), then .synth()
+- Change :play() so it returns note value
+- Add 'clock.wait' function to synth and implement
+- Try using vox without seq
+- Use musicitil instead of mask
+- Save vox, seq as github libs and leave alone
+
+## Script
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
 - Simple norns interface for calling each new part
 
-# Process
-- For a new song, create a new github branch
-- Use norns as a sequencer for ideas, but use digitone to record the sequences
+## Process
+- Use norns as a sequencer for ideas
+- Use digitone to record the sequences
 - Save different sequences in different patterns
+- Build up songs
 - Save the digitone songs in a meaningful way
 
-# Sound collages
-- Import from ANY recording and build up a collage in Live
-
-## Script
-- Use musicitil instead of mask
-- Save vox, seq as github libs and leave alone
-- Consider making seq part of vox, a seq is automatically created when a vox is created, there is a function in vox to call its contained seq
-
 ## Recording
+- Press record as soon as you have something you enjoy and then continue to record
 - Build up a collection of general recordings rather than final songs
 - Record samples into digitakt
-- Turn on norns tape
-- Turn on tape recorder
-- Turn on ableton
+- Record to norns tape
+- Record to tape recorder
+- Record direct to Live
+- Spend a session collating recordings
+- Build a collage in Live
 
 ## Tickler
 - [songideas.md](songideas.md)
