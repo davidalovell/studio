@@ -1,6 +1,7 @@
 # To do
 
 ## Next
+- Fix working copy
 - Take the midi function out of .synth() and but in general code
 - Take the :action() out of .synth()
 - Change :play() so it calls :action(), then .synth()
