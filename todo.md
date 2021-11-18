@@ -1,11 +1,11 @@
 # To do
 
 ## Next
-- Take the midi function out of .synth() and but in general code
-- Take the :action() out of .synth()
-- Change :play() so it calls :action(), then .synth()
-- Change :play() so it returns note value
-- Add 'clock.wait' function to synth and implement
+<!-- - Take the midi function out of .synth() and but in general code -->
+<!-- - Take the :action() out of .synth() -->
+<!-- - Change :play() so it calls :action(), then .synth() -->
+<!-- - Change :play() so it returns note value -->
+- Add 'clock.wait' function to synth and implement for vox.division
 - Try using vox without seq
 - Use musicitil instead of mask
 - Save vox, seq as github libs and leave alone
