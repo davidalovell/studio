@@ -2,6 +2,7 @@
 
 ## Next
 - Use musicitil instead of mask
+- Clean up vox
 - Save vox, seq as github libs and leave alone
 
 ## Script
