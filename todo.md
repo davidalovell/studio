@@ -1,9 +1,8 @@
 # To do
 
 ## Next
-- Use musicitil instead of mask
-- Clean up vox
 - Save vox, seq as github libs and leave alone
+- Build a second part
 
 ## Script
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
