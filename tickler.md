@@ -5,7 +5,6 @@
 - Consider making seq part of vox, a seq is automatically created when a vox is created, there is a function in vox to call its contained seq
 
 ## Setup
-- Wired midi from Midihub to Digitakt and label
 - Connect mono output of mixer to isms in via patchbay
 - Connect Timeline/Bigsky out to individual mixer channels
 - Box up Dreadbox Erebus v3
@@ -14,7 +13,6 @@
 - Move stereo cable for Palette case
 - Label patchbay
 - Put a mic stand up
-- Work out how to use Passthrough
 
 ## Tape Organisation
 - Storage box for blank tapes
