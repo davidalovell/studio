@@ -1,8 +1,9 @@
 # To do
 
 ## Next
+- Start a second song part
 - Save vox, seq as github libs and leave alone
-- Build a second part
+- Figure out how to use Timeline better
 
 ## Script
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
