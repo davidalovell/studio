@@ -3,11 +3,33 @@
 ## Next
 - Start a second song part
 - Save vox, seq as github libs and leave alone
-- Figure out how to use Timeline better
+- Read Timeline manual
+- Read 
 
 ## Script
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
 - Simple norns interface for calling each new part
+
+## Palette case script
+- Script that you play without the computer
+- Script that uses a basic version of vox and seq
+- Sequences are from TSNM
+- TXi params generate harmony
+- TSNM
+- 16n fb interval bank
+
+1.  1   0   0.
+2.  m3  3   3.
+3.  M3  4   4.
+4.  b5  6   6.
+5.  5   7   7.
+6.  D7  10  10.
+7.  M7  11  11.
+8.  m9  13  1.
+9.  9   14  2.
+10. 11  17  5.
+11. m13 20  8.
+12. 13  21  9.
 
 ## Process
 - Use norns as a sequencer for ideas
