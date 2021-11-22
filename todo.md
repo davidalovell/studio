@@ -17,6 +17,8 @@
 - TXi params generate harmony
 - TSNM
 - 16n fb interval bank
+- Option 1: keyboard
+- Option 2: thirds
 
 1.  1   0   0   degree = 1
 2.  m3  3   3   degree = 3  transpose = -1
@@ -31,9 +33,35 @@
 11. 11  17  5   degree = 11
 12. m13 20  8   degree = 13 transpose = -1
 13. 13  21  9   degree = 13
-14. Transpose
+14. Wrap second octave
 15. Degree
-16. 
+16. Transpose
+
+- Option 3: fifths
+1.  1    0
+2.      7
+3.      2
+4.      9
+5.      4
+6.      11
+7.      6
+8.      1
+9.      8
+10.     3
+11.     10
+12.     5
+13.     12          
+
+
+txi lydian 
+1   1,5
+2   2,6     
+3   3,7
+4   4,8
+5   2,5
+6   3,6
+7   4,7
+8   
 
 ## Process
 - Use norns as a sequencer for ideas
