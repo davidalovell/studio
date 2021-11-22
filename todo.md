@@ -1,6 +1,7 @@
 # To do
 
 ## Next
+- Record some more
 - Save vox, seq as github libs and leave alone
 - Read Timeline manual
 - Read Boum manual
@@ -13,23 +14,10 @@
 - Script that you play without the computer
 - Script that uses a basic version of vox and seq
 - Note sequences are from TSNM
-- TXi params generate harmony 
-
-
-
-
-
-
-
-Crow idea
-
-sample and hold incoming notes
-param 1 determines rate of sampling
-param 2 determines degree
-two voices
-
-
-
+- TXi params generate harmony
+- Sample and hold incoming notes
+- param 1 determines rate of sampling
+- param 2 determines transposition
 
 ## Process
 - Use norns as a sequencer for ideas
