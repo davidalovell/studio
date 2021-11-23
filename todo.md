@@ -1,12 +1,15 @@
 # To do
 
 ## Next
-- Record some more
-- Save vox, seq as github libs and leave alone
+- Record the song again in the same way
+- Come up with an idea for a performance
+- Make a simplified bass part for part 1
+- Make a third chord
 - Read Timeline manual
 - Read Boum manual
 
 ## Script
+- Save vox, seq as github libs and leave alone
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
 - Simple norns interface for calling each new part
 
