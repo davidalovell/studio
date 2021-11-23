@@ -11,7 +11,7 @@
 ## Script
 - Save vox, seq as github libs and leave alone
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
-- Simple norns interface for calling each new part
+- Simple norns interface for calling each new part at
 
 ## Crow script idea
 - Script that you play without the computer
