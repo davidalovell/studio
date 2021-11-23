@@ -1,10 +1,10 @@
 # To do
 
 ## Next
-- Record the song again in the same way
-- Come up with an idea for a performance
-- Make a simplified bass part for part 1
 - Make a third chord
+- Come up with an idea for a performance
+- Record the song again in the same way
+- Make a simplified bass part for part 1
 - Read Timeline manual
 - Read Boum manual
 
