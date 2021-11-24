@@ -65,17 +65,17 @@
 
 ## MIDI
 ### Midihub
-- In A:  
+- In A: Digitone
 - In B:
 - In C:
 - In D:
-- Out A: Modular
-- Out B: Erebus
-- Out C: *Pedal chain*
-- Out D:
+- Out A: Digitone
+- Out B: Modular 
+- Out C: Erebus 
+- Out D: *Pedal chain*
 
 ### Pedal chain
-- 1: Timeline
-- 2: BigSky
-- 3: Analog Drive
-- 4: OTO Boum
+- 1: Timeline (Channel 1)
+- 2: BigSky (Channel 2)
+- 3: Analog Drive (Channel 3)
+- 4: OTO Boum (Channel 4)
