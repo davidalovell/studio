@@ -1,8 +1,4 @@
-# Ticker
-
-## Script ideas
-- Consider making Vox a parent object and then voices are private objects to vox (a bit like lattice)
-- Consider making seq part of vox, a seq is automatically created when a vox is created, there is a function in vox to call its contained seq
+# Tickler
 
 ## Setup
 - Connect mono output of mixer to OP-1/Isms in via patchbay
@@ -10,13 +6,29 @@
 - Connect OM-1 to patchbay
 - Connect SvO system to patchbay
 - Connect Palette case to patchbay
-
 - Plug in power to Palette case
 - Reorganise Palette case 1u modules
-
 - Try patching Timeline/Bigsky out to main mixer input channels for greater control over EQ
-
 - Label patchbay
+
+## Norns scripts
+### Vox and seq
+- Simple norns interface for calling each new part
+- Consider making Vox a parent object and then voices are private objects to vox (a bit like lattice)
+- Consider making seq part of vox, a seq is automatically created when a vox is created, there is a function in vox to call its contained seq
+
+## Crow scripts
+### Standalone
+- Script that you play without the computer
+- Script that uses a basic version of vox and seq
+- JF as only oscilator
+- Patching required for the rest of the system
+- Note sequences and master clock are from TSNM
+- TXi params generate harmony
+- Sample and hold incoming notes
+- Param 1/3 determines rate of sampling
+- Param 2/4 determines transposition
+- Crow outputs are various unsynced LFO
 
 ## Tape Organisation
 - Storage box for blank tapes
@@ -37,20 +49,12 @@
 - Try a configuration with Ansible
 - Try a configuration with Teletype
 
-## Crow idea 1
-- Script that you play without the computer
-- Script that uses a basic version of vox and seq
-- Note sequences are from TSNM
-- TXi params generate harmony
-- Sample and hold incoming notes
-- Param 1 determines rate of sampling
-- Param 2 determines transposition
-
 ## Pedals
 - Read Timeline manual
 - Read Boum manual
 
 ## Morphagene
+- Use it as a sound source
 - Use it as a live processor
 - Use it to record loops
 - Learn how to use button combos
