@@ -30,5 +30,4 @@
 - Build a collage in Live
 
 ## Tickler
-- [songideas.md](songideas.md)
 - [tickler.md](tickler.md)
