@@ -5,14 +5,18 @@
 - Consider making seq part of vox, a seq is automatically created when a vox is created, there is a function in vox to call its contained seq
 
 ## Setup
-- Connect mono output of mixer to isms in via patchbay
-- Connect Timeline/Bigsky out to individual mixer channels
-- Box up Dreadbox Erebus v3
-- Box up OM-1
-- Put Palette case in their place
-- Move stereo cable for Palette case
+- Connect mono output of mixer to OP-1/Isms in via patchbay
+- Connect Tascam recorder to patchbay
+- Connect OM-1 to patchbay
+- Connect SvO system to patchbay
+- Connect Palette case to patchbay
+
+- Plug in power to Palette case
+- Reorganise Palette case 1u modules
+
+- Try patching Timeline/Bigsky out to main mixer input channels for greater control over EQ
+
 - Label patchbay
-- Put a mic stand up
 
 ## Tape Organisation
 - Storage box for blank tapes
@@ -27,10 +31,24 @@
 - Lydian chromatic concept
 
 ## Palette
+- Reorganise Palette case 1u modules
 - Fix i2c issues - try crow with one thing at a time
 - Try with new txb
 - Try a configuration with Ansible
 - Try a configuration with Teletype
+
+## Crow idea 1
+- Script that you play without the computer
+- Script that uses a basic version of vox and seq
+- Note sequences are from TSNM
+- TXi params generate harmony
+- Sample and hold incoming notes
+- Param 1 determines rate of sampling
+- Param 2 determines transposition
+
+## Pedals
+- Read Timeline manual
+- Read Boum manual
 
 ## Morphagene
 - Use it as a live processor
