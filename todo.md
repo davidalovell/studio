@@ -8,6 +8,8 @@
 - Come up with an idea for a performance
 - Record the song again in the same way
 
+- THEN see what you can make with digitone again (go deep with digitone)
+
 ## Script
 - Save vox, seq as github libs and leave alone
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
