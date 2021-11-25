@@ -1,7 +1,8 @@
 # Tickler
 
 ## Setup
-- Connect mono output of mixer to OP-1/Isms in via patchbay
+### Patchbay
+- Connect mono output of mixer to inputs of OP-1/Isms via patchbay
 - Connect Tascam recorder to patchbay
 - Connect OM-1 to patchbay
 - Connect SvO system to patchbay
@@ -10,6 +11,13 @@
 - Reorganise Palette case 1u modules
 - Try patching Timeline/Bigsky out to main mixer input channels for greater control over EQ
 - Label patchbay
+
+### Palette
+- Reorganise Palette case 1u modules
+- Fix i2c issues - try crow with one thing at a time
+- Try with new txb
+- Try a configuration with Ansible
+- Try a configuration with Teletype
 
 ## Norns scripts
 ### Vox and seq
@@ -30,7 +38,7 @@
 - Param 2/4 determines transposition
 - Crow outputs are various unsynced LFO
 
-## Tape Organisation
+## Tape organisation system
 - Storage box for blank tapes
 - Storage box for recorded tapes
 - Write on cassette and cassette case
@@ -41,13 +49,6 @@
 
 ## Music theory
 - Lydian chromatic concept
-
-## Palette
-- Reorganise Palette case 1u modules
-- Fix i2c issues - try crow with one thing at a time
-- Try with new txb
-- Try a configuration with Ansible
-- Try a configuration with Teletype
 
 ## Pedals
 - Read Timeline manual
