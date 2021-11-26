@@ -1,10 +1,6 @@
 # To do
 
 ## Next
-- Work out a fix for A4 ground loop
-- ?Unplug power from usb hub
-- ?Try long usb cable from work
-
 - Come up with an idea for a performance
 - Record the song again in the same way
 
