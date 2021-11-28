@@ -1,6 +1,8 @@
 # To do
 
 ## Next
+- Investigate and reconfigure Palette case
+
 - Come up with an idea for a performance
 - Record the song again in the same way
 
