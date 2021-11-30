@@ -1,15 +1,16 @@
 # To do
 
 ## Next
-- Investigate and reconfigure Palette case
-
 - Come up with an idea for a performance
+- Create a vox object for digitakt sounds
+- Create some functions that start and stop various parts
+- Call each function in order as a performance
 - Record the song again in the same way
-
 - THEN see what you can make with digitone again (go deep with digitone)
 
 ## Script
 - Save vox, seq as github libs and leave alone
+- Save these in their own folder on norns
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
 
 ## Process
