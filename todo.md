@@ -20,6 +20,7 @@
 
 ## Astrabel.org
 - Link that to soundcloud for now
+- Some sketches
 
 ## Process
 - Use norns as a sequencer for ideas    
