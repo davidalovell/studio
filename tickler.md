@@ -1,5 +1,16 @@
 # Tickler
 
+## Process
+### Sound collages
+- Press record as soon as you have something you enjoy and then continue to record
+- Build up a collection of general recordings rather than final songs
+- Record samples into digitakt
+- Record to norns tape
+- Record to tape recorder
+- Record direct to Live
+- Spend a session collating recordings
+- Build a collage in Live
+
 ## Setup
 ### Patchbay
 - Connect mono output of mixer to inputs of OP-1/Isms via patchbay
@@ -20,7 +31,10 @@
 - Try a configuration with Teletype
 
 ## Norns scripts
-### Vox and seq
+### Digitone midi controlled sequencer script
+- Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
+
+### Vox/Seq possibilities
 - Simple norns interface for calling each new part
 - Consider making Vox a parent object and then voices are private objects to vox (a bit like lattice)
 - Consider making seq part of vox, a seq is automatically created when a vox is created, there is a function in vox to call its contained seq
