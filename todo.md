@@ -18,16 +18,14 @@
 - Read docs on how to include lib not in folder
 
 ## Astrabel.org
-- Read about Wordpress
-- Come up with a site plan
-
 ### Site plan
-- Home page = blog
-- About
-- Blog
+- home
+- audio
+  - media player
+- blog
   - Share music, code and discussion about process
   - Sometimes stuff about anxiety
-- Music list
+- about
 
 ## Process
 - Use norns as a sequencer for ideas
