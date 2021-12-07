@@ -1,8 +1,12 @@
 # To do
 
 ## Next
-- Work on Vox/Seq
 - Work on switching sequencer
+- Work on Vox/Seq
+
+## Switching sequencer script
+- Work on switching sequencer idea
+- Document different ways of doing it
 
 ## Vox/Seq
 - Add comments to help with how to use user properties
@@ -12,10 +16,6 @@
 - Save vox, seq as github libs and leave alone
 - Save these in their own folder on norns
 - Read docs on how to include lib not in folder
-
-## Switching sequencer script
-- Work on switching sequencer idea
-- Document different ways of doing it
 
 ## Astrabel.org
 - Read about Wordpress
