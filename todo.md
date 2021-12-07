@@ -21,6 +21,14 @@
 - Read about Wordpress
 - Come up with a site plan
 
+### Site plan
+- Home page = blog
+- About
+- Blog
+  - Share music, code and discussion about process
+  - Sometimes stuff about anxiety
+- Music list
+
 ## Process
 - Use norns as a sequencer for ideas
 - Create some functions that start and stop various parts
