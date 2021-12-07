@@ -25,4 +25,4 @@
 - Use norns as a sequencer for ideas
 - Create some functions that start and stop various parts
 - Call each function in order as a performance
-- Record the song to norns tape
+- Record the song to norns tape 
