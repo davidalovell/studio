@@ -11,8 +11,6 @@
 ## Vox/Seq
 - Add comments to help with how to use user properties
 - Add comments to say you need a nil handler in vox.action
-- Add seq.advance_on functionality - advances if true
-- Add seq.action_on funtionality - call seq.action if true
 - Save vox, seq as github libs and leave alone
 - Save these in their own folder on norns
 - Read docs on how to include lib not in folder
