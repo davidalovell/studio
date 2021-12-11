@@ -15,17 +15,20 @@
 - Save these in their own folder on norns
 - Read docs on how to include lib not in folder
 
-## Astrabel.org
-- Read about Wordpress
-- Come up with a site plan
-
-### Site plan
-- Home page = blog
-- About
-- Blog
-  - Share music, code and discussion about process
+## Astrabel
+### Website
+- home
+- audio
+  - media player with all audio
+- posts
+  - pictures, music, code and discussion about process
   - Sometimes stuff about anxiety
-- Music list
+- about
+- Instagram link
+- Soundcloud link
+
+### Instagram
+- Come up with a plan for posting pictures and videos
 
 ## Process
 - Use norns as a sequencer for ideas
