@@ -7,6 +7,10 @@
 ## Switching sequencer script
 - Work on switching sequencer idea
 - Document different ways of doing it
+- Try sequencing seq.action_on
+- Try sequencing seq.advance_on
+- Bass sequence to suggest chords
+- Lydian chromatic concept flourishes??
 
 ## Vox/Seq
 - Add comments to help with how to use user properties
