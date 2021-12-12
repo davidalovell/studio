@@ -10,7 +10,9 @@
 - Try sequencing seq.action_on
 - Try sequencing seq.advance_on
 - Bass sequence to suggest chords
-- Lydian chromatic concept flourishes??
+- Play minor pentatonic starting from the major 3rd degree of a major 7th chord
+- Play minor pentatonic starting from the major 7th degree of a major 7th chord
+
 
 ## Vox/Seq
 - Add comments to help with how to use user properties
