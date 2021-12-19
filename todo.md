@@ -23,6 +23,8 @@
 ## Vox/Seq
 - Add comments to help with how to use user properties
 - Add comments to say you need a nil handler in vox.action
+- ?Add seq.return_on (to complement seq.action_on and seq.advance_on)
+  - This could integrate with seq.skip and seq.prob anbut may require a rewrite
 - Save vox, seq as github libs and leave alone
 - Save these in their own folder on norns
 - Read docs on how to include lib not in folder on norns
