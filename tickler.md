@@ -11,6 +11,11 @@
 - Spend a session collating recordings
 - Build a collage in Live
 
+### 'Live coded' songs
+- Create some functions that start and stop various parts
+- Call each function in order as a performance
+- Record the song to norns tape 
+
 ## Setup
 ### Patchbay
 - Connect mono output of mixer to inputs of OP-1/Isms via patchbay
