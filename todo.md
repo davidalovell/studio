@@ -4,6 +4,8 @@
 - Work on switching sequencer
 - Work on Vox/Seq
 - Work on Earthsea/Morphagene learning
+- Work on Palette case fix
+- Use Palette case with norns
 
 
 
@@ -36,6 +38,7 @@
 
 ## Mutable System
 - Write a helper document
+- Do I really want a Mordax Data
 
 
 
