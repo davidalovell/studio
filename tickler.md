@@ -92,6 +92,10 @@
 - Use Kria as a sequencer
 - Learn how to save sequences on Kria
 
+## Mutable System
+- Write a helper document
+- Do I really want a Mordax Data?
+
 ## Mac
 - Ableton Live course
 - Crow and Live link
