@@ -5,10 +5,10 @@
 - Work on Vox/Seq
 - Work on Earthsea/Morphagene learning
 - Work on Palette case fix
-- Use Palette case with norns
 
 
-
+- Get w/ fixed
+- Test w/ again
 
 
 
