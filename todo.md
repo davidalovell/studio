@@ -7,12 +7,6 @@
 - Work on Palette case fix
 - Use Palette case with norns
 
-
-
-
-
-
-
 ## Switching sequencer script
 - Work on switching sequencer idea
 - Document different ways of doing it
@@ -39,14 +33,6 @@
 ## Mutable System
 - Write a helper document
 - Do I really want a Mordax Data?
-
-
-
-
-
-
-
-
 
 ## Astrabel
 ### Website
