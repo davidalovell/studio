@@ -1,4 +1,29 @@
-# Palette case
+# Palette case script
+## Modules
+TSNM
+crow
+Just Friends
+w/
+TXi
+
+## Voices
+### Bass
+### Lead 
+### Harmony
+### Flourish
+
+## Crow outputs
+Clock
+Reset
+LFO 1
+LFO 2
+
+## TXi
+### Params
+off, reset / on
+
+### Inputs
+
 - 
 - In 1: Tempo
 - In 2: Global division
@@ -13,20 +38,6 @@
 - Param 1/3 determines rate of sampling
 - Param 2/4 determines transposition
 - Crow outputs are various unsynced LFO
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
