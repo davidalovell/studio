@@ -19,8 +19,20 @@ LFO 1
 LFO 2
 
 ## TXi
-### Params
-off, reset / on
+### Input 1
+Off / reset
+- clock.stop
+- vox:reset()
+
+On
+- clock.start
+
+### Input 2
+tempo
+lfo rate
+lfo depth
+
+
 
 ### Inputs
 
