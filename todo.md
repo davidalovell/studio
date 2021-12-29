@@ -43,6 +43,8 @@
 ## Earthsea/Morphagene
 - Read docs and play
 - Couple this with Morphagene
+- Reverb
+- Distortion
 - Feed into Digitakt
 - Write a helper document
 
