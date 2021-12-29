@@ -7,6 +7,12 @@
 - Work on TSNM case script
 
 ## TSNM helper script
+- input[1]: cv
+- input[2]: gate
+- output[1]: clock
+- output[2]: lfo: use triple attenuator
+- output[3]: lfo
+- output[4]: lfo
 - txi.input[1]: left = off/ reset, centre = start, right = clear scale
 - txi.input[2]: tempo
 - txi.input[3]: bass pattern
