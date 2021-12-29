@@ -4,7 +4,17 @@
 - Work on switching sequencer
 - Work on Vox/Seq
 - Work on Earthsea/Morphagene learning
-- Work on Palette case script
+- Work on TSNM case script
+
+## TSNM helper script
+- txi.input[1]: left = off/ reset, centre = start, right = clear scale
+- txi.input[2]: tempo
+- txi.input[3]: bass pattern
+- txi.input[4]: w/ pattern
+- txi.param[1]: bass: 0-1 = off, 1-9 = volume
+- txi.param[2]: lead: 0-1 = off, 1-9 = volume
+- txi.param[3]: harmony: 0-1 = off, 1-9 = volume
+- txi.param[4]: w/: 0-1 = off, 1-9 = volume
 
 ## Switching sequencer script
 - Work on switching sequencer idea
@@ -27,6 +37,7 @@
 ## Earthsea/Morphagene
 - Read docs and play
 - Couple this with Morphagene
+- Feed into Digitakt
 - Write a helper document
 
 ## Astrabel
