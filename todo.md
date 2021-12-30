@@ -1,11 +1,11 @@
 # To do
 
 ## Next
-- Work on switching sequencer
-- Work on Vox/Seq
 - Work on TSNM case script
+- Work on switching sequencer
 
 ## Later
+- Work on Vox/Seq
 - Earthsea/Morphagene learning
 
 ## TSNM helper script
