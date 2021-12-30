@@ -3,8 +3,10 @@
 ## Next
 - Work on switching sequencer
 - Work on Vox/Seq
-- Work on Earthsea/Morphagene learning
 - Work on TSNM case script
+
+## Later
+- Earthsea/Morphagene learning
 
 ## TSNM helper script
 - input[1]: cv
@@ -18,7 +20,7 @@
 - txi.input[3]: bass pattern
 - txi.input[4]: w/ pattern
 - txi.param[1]: bass: 0-1 = off, 1-9 = volume
-- txi.param[2]: lead: 0-1 = off, 1-9 = volume
+- txi.param[2]: lead: 0-1 = off, 1-9 = volume - ?create your own way of cycling notes
 - txi.param[3]: harmony: 0-1 = off, 1-9 = volume
 - txi.param[4]: w/: 0-1 = off, 1-9 = volume
 
@@ -54,6 +56,7 @@
   - add photo
 - posts
   - add photo to first post
+  - create a new post about recordings and process from last night + photo
 - audio
   - media player with playlist of all audio
 - about
