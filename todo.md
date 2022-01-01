@@ -8,6 +8,16 @@
 - Work on Vox/Seq
 - Earthsea/Morphagene learning
 
+## Email
+Timeline:
+Updated to crow 3.0
+When uploading script had to restart crow for it to run
+Downgrading to 2.0 meant this worked again
+Then only able to communicate with w/ in synth mode
+then crow constantly saying connected
+
+
+
 ## TSNM helper script
 - input[1]: cv
 - input[2]: gate
