@@ -16,6 +16,14 @@
 - Call each function in order as a performance
 - Record the song to norns tape 
 
+### Earthsea/Morphagene
+- Read docs and play
+- Couple this with Morphagene
+- Reverb
+- Distortion
+- Feed into Digitakt
+- Write a helper document
+
 ## Setup
 ### Patchbay
 - Connect mono output of mixer to inputs of OP-1/Isms via patchbay
