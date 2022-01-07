@@ -6,6 +6,16 @@
 - Work on website
 - Work on Vox/Seq
 
+## Simple TSNM helper script
+txi.param[1]: mode
+txi.param[]: channel
+txi.param[]: numerator
+txi.param[]: denominator
+
+input 1-4 : lfos
+
+
+
 ## TSNM helper script
 ### input[1]:     cv
 done
