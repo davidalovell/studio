@@ -7,48 +7,7 @@
 - Work on Vox/Seq
 
 ## Simple TSNM helper script
-txi.param[1]: mode
-txi.param[]: channel
-txi.param[]: numerator
-txi.param[]: denominator
-
-input 1-4 : lfos
-
-
-
-## TSNM helper script
-### input[1]:     cv
-done
-### input[2]:     gate
-done
-### output[1]:    clock
-done
-### output[2]:    reset gate or lfo
-to do
-### output[3]:    lfo
-to do
-### output[4]:    lfo
-to do
-### txi.input[1]: left = gate off + sequencer off + reset, centre = on, right = clear w/ scale + w/ sequencer off
-left - working for gate, but need to also turn off sequencer, this may also help sync the sequencer to the gate
-centre - working
-right - working for clear w/ scale, but need to turn the sequencer off too
-### txi.input[2]: tempo
-done
-
-### txi.input[3]: bass pattern
-### txi.input[4]: w/ pattern
-### txi.param[1]: bass: 0-1 = off, 1-9 = volume
-### txi.param[2]: lead: 0-1 = off, 1-9 = volume - ?create your own way of cycling notes in JF
-### txi.param[3]: harmony: 0-1 = off, 1-9 = volume
-### txi.param[4]: w/: 0-1 = off, 1-9 = volume
-
-
-
-
-
-
-
+- See script
 
 ## Switching sequencer script
 - Work on switching sequencer idea
