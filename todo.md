@@ -7,30 +7,19 @@
 - Work on Vox/Seq
 
 ## Simple TSNM helper script
-- synth mode off / vol
-- lfo rates
-- run mode off / -5 to 5
-- vca sequencer
-
-
-
-
 - crow
 - input 1: gate 1
 - input 2: gate 2
+
 - txi
 - param 1: synth mode off / vol
-  - todo synth mode off
-- param 2: lfo rates
-  - todo 0.01 + txi.param[2]
-- param 3: 
-- param 4: 
+- param 3: run mode off / -5 to 5
+- param 2: lfo rates (0.01 + txi.param[2])
+- param 4: accent sequencer
 - input 1: v8 1
-  - todo
 - input 2: v8 2
-  - todo
-- input 3: 
-- input 4:
+- input 3: s&h level
+- input 4: s&h jitter
 
 310817Bodger£
 
