@@ -7,7 +7,24 @@
 - Work on Vox/Seq
 
 ## Simple TSNM helper script
-- See script
+- crow
+- input 1: gate 1
+- input 2: gate 2
+- txi
+- param 1: synth mode off / vol
+  - todo synth mode off
+- param 2: lfo rates
+  - todo 0.01 + txi.param[2]
+- param 3:
+- param 4: 
+- input 1: v8 1
+  - todo
+- input 2: v8 2
+  - todo
+- input 3: 
+- input 4:
+
+310817Bodger£
 
 ## Switching sequencer script
 - Work on switching sequencer idea
