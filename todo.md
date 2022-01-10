@@ -10,15 +10,19 @@
 - crow
 - input 1: gate 1
 - input 2: gate 2
+- output 1: lfo 1
+- output 2: lfo 2
+- output 3: envelope 1
+- output 4: envelope 2
 
 - txi
 - param 1: synth mode off / vol
 - param 3: run mode off / -5 to 5
 - param 2: lfo rates (0.01 + txi.param[2])
-- param 4: accent sequencer
+- param 4: envelope duration
 - input 1: v8 1
 - input 2: v8 2
-- input 3: s&h level
+- input 3: s&h vol
 - input 4: s&h jitter
 
 310817Bodger£
