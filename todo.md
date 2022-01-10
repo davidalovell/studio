@@ -10,6 +10,7 @@
 - synth mode off / vol
 - lfo rates
 - run mode off / -5 to 5
+- vca sequencer
 
 
 
