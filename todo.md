@@ -7,15 +7,7 @@
 - Work on Vox/Seq
 
 ## Simple TSNM helper script
-- TODO
-- make lfo into triangle with skew
-- make gate delay (not +/-)
-- global vars at start of code
-- code order
-- code readability
-- DRY code
-- date delay that responds to tempo
- Change the input to a gate delay (rather than +/-)
+- see script
 
 ## Switching sequencer script
 - Work on switching sequencer idea
