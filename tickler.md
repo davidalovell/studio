@@ -120,3 +120,12 @@
 - Sascha Van Ott system - 6x modules and case
 - 23x WMD SSF modules
 - Bits and bobs           
+
+## Website
+### Instagram
+- Come up with a plan for posting pictures and videos
+
+### Soundcloud
+- Tidy up page
+- Better photos
+- Just a block of colour at the top?

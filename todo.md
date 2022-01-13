@@ -7,27 +7,15 @@
 - Work on Vox/Seq
 
 ## Simple TSNM helper script
-
--- crow
--- input 1: gate 1
--- input 2: gate 2
--- output 1: lfo 1
--- output 2: lfo 2
--- output 3: envelope
--- output 4: random (based on gate 1/2)
-
--- txi
--- param 1: synth mode off / volume
--- param 2: lfo rates
--- param 3: attack time
--- param 4: release time
--- input 1: v8 1
--- input 2: v8 2
--- input 3: volume offset
--- input 4: gate delay offset
-
-
-310817Bodger£
+- TODO
+- make lfo into triangle with skew
+- make gate delay (not +/-)
+- global vars at start of code
+- code order
+- code readability
+- DRY code
+- date delay that responds to tempo
+ Change the input to a gate delay (rather than +/-)
 
 ## Switching sequencer script
 - Work on switching sequencer idea
@@ -52,14 +40,6 @@
   - Instagram link
   - Soundcloud link
 - section about pork & beef
-
-### Instagram
-- Come up with a plan for posting pictures and videos
-
-### Soundcloud
-- Tidy up page
-- Better photos
-- Just a block of colour at the top?
 
 ## Vox/Seq
 - Add comments to help with how to use user properties
