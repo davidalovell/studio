@@ -1,13 +1,20 @@
 # To do
 
 ## Next
-- Work on TSNM script
+- TSNM system exploration
 - Work on switching sequencer script
 - Work on website
 - Work on Vox/Seq
 
-## Simple TSNM helper script
-- see script
+## TSNM system exploration
+- Work about how to use w/tape
+- Record a loop
+- Record multiple loops
+- Try to mix this in with the original signal
+- Sync'd loops
+- Record output to norns
+- Work out to make best use of w/del
+- ?Sync'ed delays
 
 ## Switching sequencer script
 - Work on switching sequencer idea
