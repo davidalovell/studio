@@ -7,14 +7,15 @@
 - Work on Vox/Seq
 
 ## TSNM system exploration
-- Work about how to use w/tape
-- Record a loop
-- Record multiple loops
-- Try to mix this in with the original signal
-- Sync'd loops
-- Record output to norns
-- Work out to make best use of w/del
-- ?Sync'ed delays
+- Record loops by hand, improve your timing
+- Use the arp in unlatched mode
+- Practise sound-on-sound loops
+- Practise layering loops that slowly fade out
+- Experiment with 2x w/tape
+- Sync'ed loops
+- Sync'ed delays
+- Record the fun to norns
+- Learn how to use the sequencer
 
 ## Switching sequencer script
 - Work on switching sequencer idea
