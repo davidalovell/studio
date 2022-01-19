@@ -15,7 +15,7 @@
 - Sync'ed loops
 - Sync'ed delays
 - Record the fun to norns
-- Learn how to use the sequencer
+- Learn how to use the TSNM sequencer
 
 ## Switching sequencer script
 - Work on switching sequencer idea
