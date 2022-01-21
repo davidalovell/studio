@@ -2,6 +2,7 @@
 
 ## Next
 - TSNM system exploration
+- Update TSNM script
 - Work on switching sequencer script
 - Work on website
 - Work on Vox/Seq
@@ -9,13 +10,12 @@
 ## TSNM system exploration
 - Record loops by hand, improve your timing
 - Use the arp in unlatched mode
+- Learn TSNM live settings
+- Learn how to use the TSNM sequencer
 - Practise sound-on-sound loops
 - Practise layering loops that slowly fade out
 - Experiment with 2x w/tape
-- Sync'ed loops
 - Sync'ed delays
-- Record the fun to norns
-- Learn how to use the TSNM sequencer
 
 ## Switching sequencer script
 - Work on switching sequencer idea
