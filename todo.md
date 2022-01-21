@@ -1,7 +1,6 @@
 # To do
 
 ## Next
-- Update TSNM script in Palette case
 - TSNM system exploration
 - Design an Isms set up
 - Work on switching sequencer script
