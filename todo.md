@@ -1,8 +1,9 @@
 # To do
 
 ## Next
+- Update TSNM script in Palette case
 - TSNM system exploration
-- Update TSNM script
+- Design an Isms set up
 - Work on switching sequencer script
 - Work on website
 - Work on Vox/Seq
@@ -32,7 +33,7 @@
   - add photo
 - posts
   - add photo to first post
-  - create a new post about recordings and process from last night + photo
+  - have a look through some audio and upload
 - audio
   - media player with playlist of all audio
 - about
@@ -49,3 +50,68 @@
 - Save vox, seq as github libs and leave alone
 - Save these in their own folder on norns
 - Read docs on how to include lib not in folder on norns
+
+## Isms set up
+### Aims
+- A flexible set up for patching
+- But with a clear idea of what everything is for
+- Part of the problem is how many options there are
+
+### Modules and functions
+- Crow
+  - Main clock from Digitone via Norns
+
+- Ansible (Grid)
+  - Clock from Crow
+
+- Ansible (Arc)
+  - Not sure how I will use this yet
+  - I need to have a look at all the apps
+
+- Teletype
+  - Sequencer
+  - Harmony
+
+- TXo
+  - Envelopes
+
+- TXi
+  - Control over the envelopes
+
+- ER-301
+  - Play with the sample players / granular stuff etc
+
+- Sweet Sixteen
+
+- JF 1
+  - Linked with ansible
+
+- JF 1
+  - Modulation
+  - OR
+  - Teletype voice
+
+- Mangrove 1
+
+- Mangrove 2
+
+- Sisters
+
+- Cold Mac
+
+- W/ 1
+  - W/syn
+  - Controlled from kria
+  - or TT
+
+- W/ 2
+  - W/del
+
+- Morphagene
+  - Use it as a sound source
+  - Use it as a live processor
+  - Use it to record loops
+  - Learn how to use button combos
+  - Learn how to use reels
+  - CV control with crow or txo
+  - Use it with a sequencer
