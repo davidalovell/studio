@@ -61,40 +61,61 @@
   - Main clock from Digitone via Norns
 
 - Ansible (Grid)
+  - ?Kria
+  - ?Meadowphysics
   - Clock from Crow
 
 - Ansible (Arc)
+  - ?LFOs
   - Not sure how I will use this yet
   - I need to have a look at all the apps
 
 - Teletype
+  - Clock from Crow
+  - Metro to send Sweet Sixteen data to ER-301
   - Sequencer
   - Harmony
+  - Rewatch DR tutorial video
 
 - TXo
-  - Envelopes
+  - ?Envelopes
+  - ?LFOs
+  - ?Wavetable oscillators
 
 - TXi
-  - Control over the envelopes
+  - Control for TXo or Teletype params
+  - ?Attack/release time
+  - ?LFO rate/depth
+  - ?Wavetable oscillator control
 
 - ER-301
-  - Play with the sample players / granular stuff etc
+  - Update firmware
+  - Learn how to record direct
+  - Learn how to use sample records
+  - Download trash echo and other stuff
 
 - Sweet Sixteen
+  - To control the ER-301
+  - Voltage offsets
+  - Attenuators
 
 - JF 1
   - Linked with ansible
 
 - JF 1
-  - Modulation
-  - OR
-  - Teletype voice
+  - ?Envelopes
+  - ?LFOs
+  - ?Harmonic oscilator via Teletype
+  - ?Big fat VCO
+  - Just type voice
 
-- Mangrove 1
-
-- Mangrove 2
+- Mangroves
+  - Two voices
+  - Complex oscillator with Cold Mac
 
 - Sisters
+  - Spectral mixer
+  - Pinged percussion
 
 - Cold Mac
 
