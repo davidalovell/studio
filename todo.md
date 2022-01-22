@@ -26,8 +26,10 @@
 - Play minor pentatonic starting from the major 3rd degree of a major 7th chord
 - Play minor pentatonic starting from the major 7th degree of a major 7th chord
 
-## Astrabel
-### Website
+## TSNM video or llllllll post
+- Have a think about this
+
+## Website
 - home
   - add photo
 - posts
