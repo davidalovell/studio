@@ -95,6 +95,7 @@
   - Learn how to record direct
   - Learn how to use sample records
   - Download trash echo and other stuff
+  - Pinged filters for percussion
 
 - Sweet Sixteen
   - To control the ER-301
