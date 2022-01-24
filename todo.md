@@ -8,10 +8,14 @@
 - Work on Vox/Seq
 
 ## TSNM system exploration
+- Just patch and explore
+- Try to LPG
+- Try panning
+- Try formants in 
 - Record loops by hand, improve your timing
 - Use the arp in unlatched mode
 - Learn TSNM live settings
-- Learn how to use the TSNM sequencer
+- Learn how to use the TSNM sequencer mode
 - Practise sound-on-sound loops
 - Practise layering loops that slowly fade out
 - Experiment with 2x w/tape
@@ -95,7 +99,6 @@
   - Learn how to record direct
   - Learn how to use sample records
   - Download trash echo and other stuff
-  - Pinged filters for percussion
 
 - Sweet Sixteen
   - To control the ER-301
