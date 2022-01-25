@@ -9,16 +9,14 @@
 
 ## TSNM system exploration
 - Just patch and explore
-- Try to LPG
-- Try panning
-- Try formants in 
-- Record loops by hand, improve your timing
+
 - Use the arp in unlatched mode
 - Learn TSNM live settings
 - Learn how to use the TSNM sequencer mode
+
+- Record loops by hand, improve your timing
 - Practise sound-on-sound loops
 - Practise layering loops that slowly fade out
-- Experiment with 2x w/tape
 - Sync'ed delays
 
 ## Switching sequencer script
