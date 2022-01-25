@@ -12,6 +12,7 @@
 
 - Use the arp in unlatched mode
 - Learn TSNM live settings
+
 - Learn how to use the TSNM sequencer mode
 
 - Record loops by hand, improve your timing
@@ -54,7 +55,14 @@
 - Save these in their own folder on norns
 - Read docs on how to include lib not in folder on norns
 
-## Isms set up
+## Isms
+### To do
+- Isms LFO is the master clock for now (but should really be crow)
+- Ansible patched to Teletype
+
+
+
+
 ### Aims
 - A flexible set up for patching
 - But with a clear idea of what everything is for
