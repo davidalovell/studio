@@ -56,17 +56,20 @@
 - Read docs on how to include lib not in folder on norns
 
 ## Isms
-### To do
-- Isms LFO is the master clock for now (but should really be crow)
-- Ansible patched to Teletype
-
-
-
-
 ### Aims
 - A flexible set up for patching
-- But with a clear idea of what everything is for
-- Part of the problem is how many options there are
+- But a clear idea of what everything is for
+- Start with a basic patch that you can build from
+
+### Basic patch
+- Isms LFO is the master clock (for now)
+- Clock into Teletype
+- Teletype trigger out to Ansible clock in
+  - OR clock Ansible from Teletype via ii (less reliable)
+- Teletype is the only ii leader
+- Teletype queries Kria CV
+- The best way to get gates from Kria is via patch cables into Teletype
+- Teletype uses the metro script to get FB values and send them to ER-301
 
 ### Modules and functions
 - Crow
