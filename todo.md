@@ -76,9 +76,7 @@
   - Main clock from Digitone via Norns
 
 - Ansible (Grid)
-  - ?Kria
-  - ?Meadowphysics
-  - Clock from Crow
+  - Kria
 
 - Ansible (Arc)
   - ?LFOs
