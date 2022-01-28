@@ -94,7 +94,7 @@
 - Bits and bobs
 
 ## Website
-### Instagram
+a### Instagram
 - Come up with a plan for posting pictures and videos
 
 ### Soundcloud
