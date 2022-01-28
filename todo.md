@@ -6,6 +6,7 @@
 - Work on switching sequencer script
 - Work on website
 - Work on Vox/Seq
+- Fix grid/ansible ground loop
 
 ## TSNM system exploration
 - Just patch and explore
@@ -21,6 +22,8 @@
 - Sync'ed delays
 
 ## Switching sequencer script
+- Work with the modular/crow
+- Get some ER-301 on the go
 - Work on switching sequencer idea
 - Document different ways of doing it
 - Try sequencing seq.action_on
