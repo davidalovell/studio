@@ -9,33 +9,45 @@
 - Fix grid/ansible ground loop
 
 ## TSNM system exploration
-- Just patch and explore
-
-- Use the arp in unlatched mode
+- Patch and explore
 - Learn TSNM live settings
-
-- Learn how to use the TSNM sequencer mode
-
+- Learn TSNM sequencer mode
 - Record loops by hand, improve your timing
 - Practise sound-on-sound loops
 - Practise layering loops that slowly fade out
 - Sync'ed delays
 
 ## Isms system exploration
-- Learn some more Kria
+- Fix the ground loop
 - Use ER-301 as a mixer
-- Put a scope in the system
+
+- Sequencing
+  - Teletype
+  - Teletype + Kria
+  - Norns + Crow
+  - Norns + Crow + Kria
+  - Norns + Crow + Earthsea
 
 ## Switching sequencer script
-- Work with the modular/crow
-- Get some ER-301 on the go
-- Work on switching sequencer idea
 - Document different ways of doing it
 - Try sequencing seq.action_on
 - Try sequencing seq.advance_on
+
 - Bass sequence to suggest chords
 - Play minor pentatonic starting from the major 3rd degree of a major 7th chord
 - Play minor pentatonic starting from the major 7th degree of a major 7th chord
+
+## Vox/Seq
+- Build in crow support 
+- Add comments to help with how to use user properties
+- Add comments to say you need a nil handler in vox.action
+
+- ?Add seq.return_on (to complement seq.action_on and seq.advance_on)
+- This could integrate with seq.skip and seq.prob but may require a rewrite
+  
+- Save vox, seq as github libs and leave alone
+- Save these in their own folder on norns
+- Read docs on how to include lib not in folder on norns
 
 ## Website
 - home
@@ -52,11 +64,3 @@
   - Soundcloud link
 - section about pork & beef
 
-## Vox/Seq
-- Add comments to help with how to use user properties
-- Add comments to say you need a nil handler in vox.action
-- ?Add seq.return_on (to complement seq.action_on and seq.advance_on)
-  - This could integrate with seq.skip and seq.prob anbut may require a rewrite
-- Save vox, seq as github libs and leave alone
-- Save these in their own folder on norns
-- Read docs on how to include lib not in folder on norns
