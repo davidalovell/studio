@@ -18,10 +18,9 @@
 - Sync'ed delays
 
 ## Isms system exploration
-- Fix the ground loop
 - Use ER-301 as a mixer
 
-- Sequencing
+- Sequencing combinations
   - Teletype
   - Teletype + Kria
   - Norns + Crow
