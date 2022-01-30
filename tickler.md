@@ -25,21 +25,16 @@
 - Write a helper document
 
 ## Setup
+### Loose ends
+- Get a usb power/data splitter for grid
+
 ### Patchbay
 - Connect mono output of mixer to inputs of OP-1/Isms via patchbay
-- Connect Tascam recorder to patchbay
 - Connect OM-1 to patchbay
-- Connect SvO system to patchbay
-- Connect Palette case to patchbay
-- Plug in power to Palette case
-- Reorganise Palette case 1u modules
 - Try patching Timeline/Bigsky out to main mixer input channels for greater control over EQ
 - Label patchbay
 
 ### Palette
-- Reorganise Palette case 1u modules
-- Fix i2c issues - try crow with one thing at a time
-- Try with new txb
 - Try a configuration with Ansible
 - Try a configuration with Teletype
 
@@ -48,7 +43,6 @@
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
 
 ### Vox/Seq possibilities
-- Simple norns interface for calling each new part
 - Consider making Vox a parent object and then voices are private objects to vox (a bit like lattice)
 - Consider making seq part of vox, a seq is automatically created when a vox is created, there is a function in vox to call its contained seq
 

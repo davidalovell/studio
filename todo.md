@@ -6,7 +6,6 @@
 - Work on switching sequencer script
 - Work on website
 - Work on Vox/Seq
-- Fix grid/ansible ground loop
 
 ## TSNM system exploration
 - Patch and explore
@@ -31,6 +30,8 @@
 - Document different ways of doing it
 - Try sequencing seq.action_on
 - Try sequencing seq.advance_on
+
+- Simple norns/grid interface for calling each new part
 
 - Bass sequence to suggest chords
 - Play minor pentatonic starting from the major 3rd degree of a major 7th chord
