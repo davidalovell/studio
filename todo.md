@@ -1,11 +1,14 @@
 # To do
 
 ## Next
+- Switching sequencer song
 - TSNM system exploration
 - Isms system exploration
 - Work on switching sequencer script
 - Work on website
 - Work on Vox/Seq
+
+## Switching sequencer song
 
 ## TSNM system exploration
 - Patch and explore
@@ -18,7 +21,6 @@
 
 ## Isms system exploration
 - Use ER-301 as a mixer
-
 - Sequencing combinations
   - Teletype
   - Teletype + Kria
