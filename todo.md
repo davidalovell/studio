@@ -1,7 +1,7 @@
 # To do
 
 ## Next
-- Work on song
+- Work on next song
 
 - Isms system exploration
 - Mutable system exploration
@@ -10,7 +10,7 @@
 - Finish building Plinky
 - Work on website
 
-## Song
+## Next song
 - Use switching sequencer script
 - Try sequencing seq.action_on
 - Try sequencing seq.advance_on
