@@ -1,14 +1,39 @@
 # To do
 
 ## Next
-- Switching sequencer song
-- TSNM system exploration
-- Isms system exploration
-- Work on switching sequencer script
-- Work on website
-- Work on Vox/Seq
+- Work on song
 
-## Switching sequencer song
+- Isms system exploration
+- Mutable system exploration
+- TSNM system exploration
+
+- Finish building Plinky
+- Work on website
+
+## Song
+- Use switching sequencer script
+- Try sequencing seq.action_on
+- Try sequencing seq.advance_on
+
+- Start with a lead line this time
+- Bass sequence to suggest chords
+- Play minor pentatonic starting from the major 3rd degree of a major 7th chord
+- Play minor pentatonic starting from the major 7th degree of a major 7th chord
+
+- Use ER-301 sample player
+- Bring in the Mutable system as below
+
+## Isms system exploration
+- Use ER-301 as a mixer
+- Sequencing combinations
+  - Norns + Crow
+  - Kria
+  - Teletype
+
+## Mutable system exploration
+- Use 3 channels of Yarns for sequences
+- Use 4th channel as the clock
+- Use Marbles to generate more sequences from the initial sequences from Norns
 
 ## TSNM system exploration
 - Patch and explore
@@ -17,39 +42,7 @@
 - Record loops by hand, improve your timing
 - Practise sound-on-sound loops
 - Practise layering loops that slowly fade out
-- Sync'ed delays
-
-## Isms system exploration
-- Use ER-301 as a mixer
-- Sequencing combinations
-  - Teletype
-  - Teletype + Kria
-  - Norns + Crow
-  - Norns + Crow + Kria
-  - Norns + Crow + Earthsea
-
-## Switching sequencer script
-- Document different ways of doing it
-- Try sequencing seq.action_on
-- Try sequencing seq.advance_on
-
-- Simple norns/grid interface for calling each new part
-
-- Bass sequence to suggest chords
-- Play minor pentatonic starting from the major 3rd degree of a major 7th chord
-- Play minor pentatonic starting from the major 7th degree of a major 7th chord
-
-## Vox/Seq
-- Build in crow support 
-- Add comments to help with how to use user properties
-- Add comments to say you need a nil handler in vox.action
-
-- ?Add seq.return_on (to complement seq.action_on and seq.advance_on)
-- This could integrate with seq.skip and seq.prob but may require a rewrite
-  
-- Save vox, seq as github libs and leave alone
-- Save these in their own folder on norns
-- Read docs on how to include lib not in folder on norns
+- Clocked delays
 
 ## Website
 - home
@@ -57,7 +50,8 @@
 - posts
   - add photo to first post
   - have a look through some audio and upload
-  - TSNM post
+  - TSNM system post
+  - switching sequencer song post
 - audio
   - media player with playlist of all audio
 - about

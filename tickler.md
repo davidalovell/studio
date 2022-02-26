@@ -42,7 +42,19 @@
 ### Digitone midi controlled sequencer script
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
 
-### Vox/Seq possibilities
+## Vox/Seq
+- Build in crow support 
+- Add comments to help with how to use user properties
+- Add comments to say you need a nil handler in vox.action
+
+- ?Add seq.return_on (to complement seq.action_on and seq.advance_on)
+- This could integrate with seq.skip and seq.prob but may require a rewrite
+  
+- Save vox, seq as github libs and leave alone
+- Save these in their own folder on norns
+- Read docs on how to include lib not in folder on norns
+
+### Vox/Seq rewrite
 - Consider making Vox a parent object and then voices are private objects to vox (a bit like lattice)
 - Consider making seq part of vox, a seq is automatically created when a vox is created, there is a function in vox to call its contained seq
 
@@ -51,9 +63,6 @@
 - Storage box for recorded tapes
 - Write on cassette and cassette case
   - Date, recording, key, tempo
-
-## DIY
-- Build Plinky
 
 ## Music theory
 - Lydian chromatic concept
