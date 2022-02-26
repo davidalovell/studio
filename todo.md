@@ -20,7 +20,7 @@
 - Play minor pentatonic starting from the major 3rd degree of a major 7th chord
 - Play minor pentatonic starting from the major 7th degree of a major 7th chord
 
-- Use ER-301 sample player
+- Use ER-301 sample player or FX unit
 - Bring in the Mutable system as below
 
 ## Isms system exploration
