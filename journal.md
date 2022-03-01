@@ -25,3 +25,35 @@ The back story is he was arrangign a friend's stag do and had asked us to keep a
 I wasn't sure how I was going to explain this. I imagined that my friends would react really badly to it and I think at one point I had basically resigned myself to the idea that these friendships were essentially over.
 
 I have another friend I hadn't texted back for ages. I feel awful about this too because she has been off work having had an operation. I kept wanting to text her to see how she was, but the longer I left it the more I felt I needed to give a really big explanation, which I thought would sound like a pathetic excuse for being a shit friend.
+
+0 - not at all
+1- several days
+2- more than half
+3- nearly every day
+
+1
+2
+2
+3
+1
+3
+2
+2
+0
+
+3
+3
+3
+3
+2
+1
+2
+
+16/27 - mod sev
+17/21 - sev
+
+
+thurs 3rd 1000
+wed 9th 0800
+wed 23rd 1100
+
