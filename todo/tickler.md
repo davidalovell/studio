@@ -51,13 +51,14 @@ Jeans
 T-shirts
 
 ### Reminders
-MOT due:March - book
+MOTs due 1st March 2023 (in calendar)
+Autoaid renewal due 23rd March 2023 (auto-renews)
+Home insurance renewal due 27th March 2022 (in calendar, auto-renews)
+
 Car insurance due:April - update calendar
-Home insurance due:May - update calendar
 Put SORN reminder in calendar
 
 ### Garden
-Plant a tree
 Power wash patio
 Fix power washer
 
@@ -77,12 +78,6 @@ Get rid of or scan things that are no longer needed
 Consider using evernote for documents
 Cancel evernote
 
-### Heating
-Boiler service
-
 ### Money
 Saving for tax
 Plan for standing orders
-
-### Online
-Update address for driving licence
