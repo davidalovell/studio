@@ -19,6 +19,7 @@
 - Bass sequence to suggest chords
 - Play minor pentatonic starting from the major 3rd degree of a major 7th chord
 - Play minor pentatonic starting from the major 7th degree of a major 7th chord
+- construct a pentatonic scale using mask function to keep everything in key
 
 - Use ER-301 sample player or FX unit
 - Bring in the Mutable system as below
