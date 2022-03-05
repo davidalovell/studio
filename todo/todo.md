@@ -13,6 +13,7 @@ Update address for driving licence
 Boiler service
 Send payments to Lyn
 Ship inn claim - suspect I have missed the boat here
+Tell Lynn about Pavement on 22nd October
 
 ## Errands
 Get cash from bank - £450
