@@ -7,8 +7,12 @@ Music - planning
 Music - playing
 
 ## Today
-Go for a run
-Tidy up
+Shower
+Put on burgers
+Take out bins
+Collect Lynn and Alasdair
+Eat
+Play
 Phone my mum about CHVRCHES
 Tell Lynn about Pavement on 22nd October
 
