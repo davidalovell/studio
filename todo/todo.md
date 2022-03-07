@@ -7,6 +7,7 @@ Music - planning
 Music - playing
 
 ## Today
+Cancel Spotify
 
 ## Shopping
 Have a look on Next
