@@ -1,25 +1,28 @@
 # TO DO
 ## Planning your day
 Do one uncomfortable thing every day
-Exercise - run every other day
-CBT work - look at worksheets
-Music - planning
-Music - playing
+Exercise
+CBT work
+Music (planning/playing)
 
 ## Today
-Cancel Spotify
-Disney+ renews 24 March 2022
-Gloves for Alasdair
-
-## Shopping
+Text Lyn
+Text Lesley
 Have a look on Next
+CBT unhelpful thinking styles worksheet - 3/11 done - 4 in morning, 4 in evening
+CBT thought record
+
+Check to see if British Gas account active
+Put leave in calendar (see email from Paige)
+Send payments to Lyn
+
+## Waiting
+Email re: terrarium - wait until Thursday
 
 ## Admin
-<!-- Check to see if British Gas account active -->
-Put leave in calendar (see email from Paige)
+Get Lynn on Apple music
+Cancel Spotify next month
 Update address for driving licence
-Send payments to Lyn
-Ship inn claim - suspect I have missed the boat here
 Boiler service
 
 ## Errands
