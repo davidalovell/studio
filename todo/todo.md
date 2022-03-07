@@ -12,6 +12,8 @@ Have a look on Next
 CBT unhelpful thinking styles worksheet - 3/11 done - 4 in morning, 4 in evening
 CBT thought record
 
+Fix curtain
+
 Check to see if British Gas account active
 Put leave in calendar (see email from Paige)
 Send payments to Lyn
