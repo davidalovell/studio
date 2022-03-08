@@ -11,6 +11,8 @@ Text Lesley
 CBT unhelpful thinking styles worksheet - 6/11 done - 2 in the afternoon, 3 in evening
 CBT thought record
 
+Fix curtain
+
 Check to see if British Gas account active
 Put leave in calendar (see email from Paige) - log into work computer
 Send payments to Lyn - check bank details
