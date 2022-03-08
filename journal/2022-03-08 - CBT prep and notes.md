@@ -34,3 +34,11 @@ It was the last day I had at work. The day before I had had a conversation with 
 When I got to work I looked at my list of tasks and completely froze. I could not see how I was going to complete any of those tasks.
 
 I felt agitated and panicked.
+
+
+
+
+
+
+
+I wrote a bunch of stuff but have started thinking about work. I feel on edge. With my answers am I misding the point again? Am I focusing on the wrong things?
