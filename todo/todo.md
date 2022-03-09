@@ -34,6 +34,7 @@ Send payments to Lyn - check bank details
 Plan some CPD
 
 Have a look on Next
+Bananas
 
 ## Waiting
 Email re: terrarium - wait until Thursday
