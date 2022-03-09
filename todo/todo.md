@@ -6,11 +6,12 @@ CBT work
 Music (planning/playing)
 
 ## Today
+Bed sheets
+Alasdair's form
+
 Collect prescriptions
 Get cash from bank - £450
 Run around Inverurie?
-
-Fix curtain
 
 Plan some CPD
 
