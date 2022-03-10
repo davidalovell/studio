@@ -43,6 +43,8 @@
 - Use digitone as a midi controller to influence the sequencer parameters, build that into the script for happy accidents
 
 ## Vox/Seq
+- Check beat
+- Check offset, there is a bug
 - Build in crow support 
 - Add comments to help with how to use user properties
 - Add comments to say you need a nil handler in vox.action
