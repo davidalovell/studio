@@ -6,12 +6,11 @@ CBT work
 Music (planning/playing)
 
 ## Today
-Collect prescriptions
-Get cash from bank - £450
-Run around Inverurie?
+Get cash from bank, £250 yet to get
+Run around Inverurie
 
-Fix curtain
-
+Self praise
+Schema
 Plan some CPD
 
 CBT thought record
