@@ -1,14 +1,18 @@
 # To do
 
 ## Next
-- Work on next song
+- Current song
+- Next song
 
 - Isms system exploration
 - Mutable system exploration
 - TSNM system exploration
 
-- Finish building Plinky
 - Work on website
+
+## Current song
+- Listen to the different versions and pick one
+- Covert it to MP3
 
 ## Next song
 - Use switching sequencer script

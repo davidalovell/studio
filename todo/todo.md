@@ -6,12 +6,6 @@ CBT work
 Music (planning/playing)
 
 ## Today
-Get cash from bank, £250 yet to get
-Run around Inverurie
-
-Self praise
-Schema
-
 Plan some CPD
 
 CBT thought record
@@ -35,6 +29,9 @@ Boiler service
 Have a look on Next
 
 ## Errands
+Get cash from bank, £250 yet to get
+Deliver cash to Jane
+Run around Inverurie
 
 # Mental health ideas
 CBT worksheets from Jane
@@ -43,3 +40,5 @@ OHS workplace form
 Look at OHS resources
 Beating the Blues
 Silvercloud
+Self praise
+Schema
