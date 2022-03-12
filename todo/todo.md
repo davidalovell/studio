@@ -7,34 +7,31 @@ Music (planning/playing)
 
 ## Today
 Plan some CPD
-
+Read the how to save time in GP book
 CBT thought record
-CBT unhelpful thinking styles worksheet
 Beating the Blues
 Self-referral to practitioner help as per GP
+
+## Admin
+Send payments to Lyn - check bank details
+Put leave in calendar (see email from Paige) - log into work computer
+Update address for driving licence
+Boiler service
+Cancel Spotify next month
+Get Lynn on Apple music
 
 ## Waiting
 Email re: terrarium - wait until Thursday
 Check to see if British Gas account active
 
-## Admin
-Send payments to Lyn - check bank details
-Put leave in calendar (see email from Paige) - log into work computer
-Get Lynn on Apple music
-Cancel Spotify next month
-Update address for driving licence
-Boiler service
+## Errands
+Get cash from bank, £250 yet to get
+Deliver cash to Jane
 
 # Shopping
 Have a look on Next
 
-## Errands
-Get cash from bank, £250 yet to get
-Deliver cash to Jane
-Run around Inverurie
-
 # Mental health ideas
-CBT worksheets from Jane
 Self-refer to OHS CBT
 OHS workplace form
 Look at OHS resources
