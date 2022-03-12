@@ -4,15 +4,15 @@ Do one uncomfortable thing every day
 Exercise
 CBT work
 Music (planning/playing)
+CBT thought record
 
 ## Today
-Plan some CPD
-Read the how to save time in GP book
-CBT thought record
+Read Time Management in the Consultation
 Beating the Blues
 Self-referral to practitioner help as per GP
 
 ## Admin
+Plan some CPD
 Send payments to Lyn - check bank details
 Put leave in calendar (see email from Paige) - log into work computer
 Update address for driving licence
