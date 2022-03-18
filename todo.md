@@ -1,7 +1,8 @@
 # To do
 
 ## Next
-- Current song
+- Norns studies
+
 - Next song
 
 - Isms system exploration
@@ -10,9 +11,12 @@
 
 - Work on website
 
-## Current song
-- Listen to the different versions and pick one
-- Covert it to MP3
+## Norns studies
+- Make use of params
+- Use a simplified vox
+- Use sequins
+- Ability to add voices from params
+- OR do I want to work on using softcut?
 
 ## Next song
 - Use switching sequencer script
