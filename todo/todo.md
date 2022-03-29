@@ -8,9 +8,7 @@ CBT thought record
 ## Today
 Beating the Blues
 Self-referral to practitioner help as per GP
-Lunch
-Thought record
-Cooking
+Book of Mormon
 
 ## This week
 Read Time Management in the Consultation
