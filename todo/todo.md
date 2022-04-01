@@ -9,10 +9,13 @@ CBT thought record
 Beating the Blues
 Self-referral to practitioner help as per GP
 Book of Mormon
+Message Jen
+Message Jon 
+Go into the practice one day
 
 ## This week
 Read Time Management in the Consultation
-Work out what to do wit Book of Mormon tickets
+Work out what to do with Book of Mormon tickets
 Plan some CPD
 Send payments to Lyn - check bank details
 IVF consent form
@@ -22,6 +25,17 @@ Have a look on Next for holiday clothes
 
 ## Waiting
 Check to see if British Gas account active
+
+
+## CBT thought record ideas
+Going for a walk with Stephen
+Hearing about what might be happening at work i.e. people who want to call me
+Hearing about patients' problems
+
+
+
+
+
 
 
 
