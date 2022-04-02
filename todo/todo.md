@@ -31,7 +31,9 @@ Check to see if British Gas account active
 Going for a walk with Stephen
 Hearing about what might be happening at work i.e. people who want to call me
 Hearing about patients' problems
-
+Chat with Lyn
+Lying awake at night thinkimg 'i hate everything about myself'
+Thinking about things in the past, like a residential course, but only the negative parts
 
 
 
