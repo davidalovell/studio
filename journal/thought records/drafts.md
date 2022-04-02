@@ -1,0 +1,54 @@
+## Things to say to Lyn
+I saw your email about sustainability loan
+Well done, thank you for arranging
+I will look at this over the next few days
+
+### Home
+Calmer when I am at home
+More present when I am with Alasdair
+Able to spend more time thinking about my family
+
+### Work
+I am still panicked when I think about work:
+Coming through the door and speaking to people - this is normal
+Hearing about patients' problems - this is a problem
+
+Thinking about unexpected daybook messages that I may not have time to deal with
+Being unable to concentrate in the time between consultations, writing up etc.
+
+A feeling that I can't do it
+A feeling that I won't be able to juggle consulting with all the other practice stuff that needs to be thought about, emails, CPD
+
+A thought that if I go back and crumble again then I will have to do the right thing by the practice and resign
+
+I want to be back, but I can't work out if I am well enough yet
+
+### Fix David group
+Do you know what they have been speaking about?
+I hear that Graeme and Ewan were keen to call me at some point
+I would be happy for this to happen
+But it would be good to arrange times first
+
+### What will work look like
+When coming back I won't be able to go to consulting straight away
+Maybe start with some projects to build up some enthusiasm and confidence
+Maybe doing docman, or prescriptions
+Then as a third assist person for sessions, or parts of sessions
+Then slowly build up the number of surgeries I do - I suspect any setbacks or difficult consultations are likely to hit me quite hard
+Then second assist
+
+### Outcome of call
+Call Lyn next week for an update
+Happy for me to come back to do projects at first
+Why not just come in for a coffee some time - this is a really good idea
+
+
+
+## CBT thought record ideas
+Going for a walk with Stephen
+Hearing about what might be happening at work i.e. people who want to call me
+Hearing about patients' problems
+Chat with Lyn
+Lying awake at night thinkimg 'i hate everything about myself'
+Thinking about things in the past, like a residential course, but only the negative parts
+

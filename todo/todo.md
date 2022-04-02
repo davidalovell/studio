@@ -24,27 +24,7 @@ Put leave in calendar (see email from Paige) - log into work computer
 Have a look on Next for holiday clothes
 
 ## Waiting
-Check to see if British Gas account active
-
-
-## CBT thought record ideas
-Going for a walk with Stephen
-Hearing about what might be happening at work i.e. people who want to call me
-Hearing about patients' problems
-Chat with Lyn
-Lying awake at night thinkimg 'i hate everything about myself'
-Thinking about things in the past, like a residential course, but only the negative parts
-
-
-
-
-
-
-
-
-
-
-
+Pay British Gas bill once available
 
 # SOME  TIME
 ## Admin
