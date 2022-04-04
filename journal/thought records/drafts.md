@@ -52,3 +52,12 @@ Chat with Lyn
 Lying awake at night thinkimg 'i hate everything about myself'
 Thinking about things in the past, like a residential course, but only the negative parts
 
+
+
+
+
+## Thoughts tonight 4/4/22
+Lynn thinks I am pathetic
+Lynn thinks I should just go back to work
+Mind reading
+Emotional reasoning
