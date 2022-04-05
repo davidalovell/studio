@@ -10,17 +10,6 @@ Exercise
 Shopping
 Tidy kitchen a bit
 
-### Shopping list
-Nutella
-White bread
-Cocktail sausages
-Bagette
-Brie
-Ice cream
-Pepsi
-Lemonade
-Crisps
-
 ## Tonight
 IVF consent form
 Pay British Gas bill once available
