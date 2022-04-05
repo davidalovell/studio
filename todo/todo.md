@@ -6,25 +6,48 @@ Music (planning/playing)
 CBT thought record
 
 ## Today
-Beating the Blues
-Self-referral to practitioner help as per GP
-Book of Mormon
+Exercise
+Shopping
+Tidy kitchen a bit
+
+### Shopping list
+Nutella
+White bread
+Cocktail sausages
+Bagette
+Brie
+Ice cream
+Pepsi
+Lemonade
+Crisps
+
+## Tonight
+IVF consent form
+Pay British Gas bill once available
+Cancel Book of Mormon
+
+## Wednesday
+Read sustainability loan details
+Reply to Lyn about loan
+Send payments to Lyn - check bank details
+Tell Paige about appointment on 16/05/2022 at 11:00
 Message Jen
 Message Jon 
-Go into the practice one day
 
-## This week
-Read Time Management in the Consultation
-Work out what to do with Book of Mormon tickets
-Plan some CPD
-Send payments to Lyn - check bank details
-IVF consent form
-Tell work about appointment on 16/05/2022 at 11:00
+## Thursday
+CBT preparation
+eConsult and MED3
+
+## Friday
+Go to practice
 Put leave in calendar (see email from Paige) - log into work computer
+
+## Saturday
+Read Time Management in the Consultation
+Plan some CPD
 Have a look on Next for holiday clothes
 
-## Waiting
-Pay British Gas bill once available
+## Sunday
 
 # SOME  TIME
 ## Admin
@@ -33,7 +56,8 @@ Boiler service
 Cancel Spotify next month
 Get Lynn on Apple music
 
-# Mental health ideas
+# Mental health tickler
+Self-referral to practitioner help as per GP
 Self-refer to OHS CBT
 OHS workplace form
 Look at OHS resources
