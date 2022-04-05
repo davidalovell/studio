@@ -25,6 +25,7 @@ Crisps
 IVF consent form
 Pay British Gas bill once available
 Cancel Book of Mormon
+Clear out emails
 
 ## Wednesday
 Read sustainability loan details
