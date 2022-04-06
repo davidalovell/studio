@@ -107,3 +107,7 @@ Lynn hasn't really spoken to me this evening so she must think I am rubbish
 
 I do much more of the housework than Lynn
 
+Aileen will think i am skiving when Lynn goes to the medication reviews
+
+
+
