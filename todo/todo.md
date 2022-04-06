@@ -6,31 +6,27 @@ Music (planning/playing)
 CBT thought record
 
 ## Today
-Exercise
-Shopping
-Tidy kitchen a bit
+
 
 ## Tonight
-IVF consent form
+eConsult and MED3
 Pay British Gas bill once available
 Cancel Book of Mormon
 Clear out emails
 
-## Wednesday
-Read sustainability loan details
-Reply to Lyn about loan
-Send payments to Lyn - check bank details
-Tell Paige about appointment on 16/05/2022 at 11:00
-Message Jen
-Message Jon 
-
 ## Thursday
+Schema
 CBT preparation
-eConsult and MED3
+
+Read sustainability loan details
+
+Send payments to Lyn - check bank details
+
+Tell Paige about appointment on 16/05/2022 at 11:00
+Put leave in calendar (see email from Paige) - log into work computer
 
 ## Friday
 Go to practice
-Put leave in calendar (see email from Paige) - log into work computer
 
 ## Saturday
 Read Time Management in the Consultation
@@ -54,6 +50,5 @@ Look at OHS resources
 Beating the Blues
 Silvercloud
 Self-praise
-Schema
 
 
