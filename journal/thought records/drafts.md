@@ -88,3 +88,5 @@ All the music I make is rubbish
 No it isn't
 
 
+I was thinking about a mock interview I did in 2011, the interviewer seemed not to like me, I then said 'i hate myself'
+
