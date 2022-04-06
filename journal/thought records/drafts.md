@@ -90,3 +90,10 @@ No it isn't
 
 I was thinking about a mock interview I did in 2011, the interviewer seemed not to like me, I then said 'i hate myself'
 
+
+seeing Laura at the cinema
+Feeling panicked
+
+Thinking about consulting, I'm going to struggle to listen to patients with multiple unexplained problems
+
+These patients will sap me dry
