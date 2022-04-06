@@ -61,3 +61,12 @@ Lynn thinks I am pathetic
 Lynn thinks I should just go back to work
 Mind reading
 Emotional reasoning
+
+## Thought overnight 6/4/22
+The way I consult people who present with insomnia is dismissive
+
+The way I see patients is that they want something out of me
+
+Is this what I actually think?
+
+I can't face the idea of someone asking me to do something probably unnecessary, how do i say no? 
