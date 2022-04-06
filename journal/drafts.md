@@ -103,4 +103,7 @@ Lynn expected me to make her tea and I didnt, she thinks I am wasting time
 
 Lynn thinks I have eroded her evening because I didnt get Alasdair to bed early enough
 
+Lynn hasn't really spoken to me this evening so she must think I am rubbish
+
+I do much more of the housework than Lynn
 
