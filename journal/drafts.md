@@ -99,4 +99,8 @@ Thinking about consulting, I'm going to struggle to listen to patients with mult
 
 These patients will sap me dry
 
+Lynn expected me to make her tea and I didnt, she thinks I am wasting time
+
+Lynn thinks I have eroded her evening because I didnt get Alasdair to bed early enough
+
 
