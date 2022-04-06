@@ -93,7 +93,10 @@ I was thinking about a mock interview I did in 2011, the interviewer seemed not 
 
 seeing Laura at the cinema
 Feeling panicked
+i wish i had stayed at home
 
 Thinking about consulting, I'm going to struggle to listen to patients with multiple unexplained problems
 
 These patients will sap me dry
+
+
