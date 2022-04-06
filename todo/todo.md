@@ -6,26 +6,20 @@ Music (planning/playing)
 CBT thought record
 
 ## Today
-
-
-## Tonight
-eConsult and MED3
 Pay British Gas bill once available
 Cancel Book of Mormon
-Clear out emails
 
-## Thursday
 Schema
 CBT preparation
 
 Read sustainability loan details
-
 Send payments to Lyn - check bank details
 
 Tell Paige about appointment on 16/05/2022 at 11:00
 Put leave in calendar (see email from Paige) - log into work computer
 
 ## Friday
+Clear out emails
 Meal planning for stag
 
 ## Saturday
