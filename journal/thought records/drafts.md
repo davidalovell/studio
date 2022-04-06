@@ -70,3 +70,21 @@ The way I see patients is that they want something out of me
 Is this what I actually think?
 
 I can't face the idea of someone asking me to do something probably unnecessary, how do i say no? 
+
+Everyone is better at music than me
+
+Everyone is more confident to show off their music on lines
+
+Everyone thinks I am no good on lines
+
+Lynn thinks my synths are a massive waste of money
+
+My synths are a massive waste of money
+
+I am very selfish in buying this stuff
+
+All the music I make is rubbish
+
+No it isn't
+
+
