@@ -26,14 +26,15 @@ Tell Paige about appointment on 16/05/2022 at 11:00
 Put leave in calendar (see email from Paige) - log into work computer
 
 ## Friday
-Go to practice
+Meal planning for stag
 
 ## Saturday
 Read Time Management in the Consultation
 Plan some CPD
 Have a look on Next for holiday clothes
 
-## Sunday
+## Next week
+Go to practice
 
 # SOME  TIME
 ## Admin
