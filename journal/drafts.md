@@ -117,4 +117,8 @@ she must think i dont listen to her
 alasdair took a long time to get ready
 lynn must think i am not firm and a bad parent
 
+lynn has a flat tyre
+i am a failure
 
+mornings will not work when we arent working 
+    
