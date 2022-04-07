@@ -111,5 +111,10 @@ Aileen will think i am skiving when Lynn goes to the medication reviews
 
 lynn didnt say good morning so she must hate me
 
+i asked lynn about a meeting that i had misremembered was this afternoon, it was next week
+she must think i dont listen to her
+
+alasdair took a long time to get ready
+lynn must think i am not firm and a bad parent
 
 
