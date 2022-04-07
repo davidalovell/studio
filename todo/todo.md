@@ -6,7 +6,8 @@ Music (planning/playing)
 CBT thought record
 
 ## Today
-Pay British Gas bill once available
+Pay British Gas
+Set up British Gas DD
 Cancel Book of Mormon
 
 Schema
@@ -17,6 +18,8 @@ Send payments to Lyn - check bank details
 
 Tell Paige about appointment on 16/05/2022 at 11:00
 Put leave in calendar (see email from Paige) - log into work computer
+
+Post Lynn's package
 
 ## Friday
 Clear out emails
