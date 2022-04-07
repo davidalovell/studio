@@ -6,12 +6,7 @@ Music (planning/playing)
 CBT thought record
 
 ## Today
-Pay British Gas
-Set up British Gas DD
 Cancel Book of Mormon
-
-Schema
-CBT preparation
 
 Read sustainability loan details
 Send payments to Lyn - check bank details
@@ -19,19 +14,16 @@ Send payments to Lyn - check bank details
 Tell Paige about appointment on 16/05/2022 at 11:00
 Put leave in calendar (see email from Paige) - log into work computer
 
-Post Lynn's package
-
-## Friday
 Clear out emails
 Meal planning for stag
 
-## Saturday
-Read Time Management in the Consultation
-Plan some CPD
-Have a look on Next for holiday clothes
+Check time Lynn's package will be collected
 
 ## Next week
 Go to practice
+Read Time Management in the Consultation
+Plan some CPD
+Have a look on Next for holiday clothes
 
 # SOME  TIME
 ## Admin
