@@ -109,5 +109,7 @@ I do much more of the housework than Lynn
 
 Aileen will think i am skiving when Lynn goes to the medication reviews
 
+lynn didnt say good morning so she must hate me
+
 
 
