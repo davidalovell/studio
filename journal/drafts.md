@@ -122,3 +122,6 @@ i am a failure
 
 mornings will not work when we arent working 
     
+## Next
+
+I know too little to be a gp
