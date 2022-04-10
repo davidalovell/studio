@@ -131,3 +131,8 @@ Thoughts about what lynn said in the garage about the mouse
 thoughts when lynn didnt help to tidy up
 thoughts when i couldnt say how i felt
 tgoughts when i awoke in the morning - i am going to disappear
+
+talking about the plans over the next few weeks
+panic
+
+
