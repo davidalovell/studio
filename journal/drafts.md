@@ -125,3 +125,9 @@ mornings will not work when we arent working
 ## Next
 
 I know too little to be a gp
+Thoughts on my run about dad and the practice
+Thoughts about Lynn thinking I am rubbish while out in Stonehaven
+Thoughts about what lynn said in the garage about the mouse
+thoughts when lynn didnt help to tidy up
+thoughts when i couldnt say how i felt
+tgoughts when i awoke in the morning - i am going to disappear
