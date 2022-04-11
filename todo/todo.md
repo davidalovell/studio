@@ -6,7 +6,11 @@ Music (planning/playing)
 CBT thought record
 
 ## Today
+Book cinema
+Book pizza
 Cancel Book of Mormon
+
+Meal planning for stag
 
 Read sustainability loan details
 Send payments to Lyn - check bank details
@@ -15,9 +19,8 @@ Tell Paige about appointment on 16/05/2022 at 11:00
 Put leave in calendar (see email from Paige) - log into work computer
 
 Clear out emails
-Meal planning for stag
 
-Check time Lynn's package will be collected
+Electric car charging point setup
 
 ## Next week
 Go to practice
