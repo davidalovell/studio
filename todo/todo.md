@@ -6,28 +6,25 @@ Music (planning/playing)
 CBT thought record
 
 ## Today
-OBJECT!!!
-Book cinema
-Book pizza
+Object to planning application
 Cancel Book of Mormon
-
 Meal planning for stag
-
 Read sustainability loan details
-Send payments to Lyn - check bank details
-
-Tell Paige about appointment on 16/05/2022 at 11:00
-Put leave in calendar (see email from Paige) - log into work computer
-
-Clear out emails
-
 Electric car charging point setup
+Send payments to Lyn - check bank details
+Clear out emails
+Destroy garden bench
+Book slot at the dump
+OR arrange pickup for bench
+Have a look on Next for holiday clothes
+Fix the curtain pole
+Have a look at stag do spreadsheet
 
 ## Next week
 Go to practice
-Read Time Management in the Consultation
-Plan some CPD
-Have a look on Next for holiday clothes
+Tell Paige about appt on 16/05/2022 at 11:00
+Put leave in calendar (see email from Paige)
+Work out if possible to visit Richard
 
 # SOME  TIME
 ## Admin
@@ -36,7 +33,7 @@ Boiler service
 Cancel Spotify next month
 Get Lynn on Apple music
 
-# Mental health tickler
+## Mental health tickler
 Self-referral to practitioner help as per GP
 Self-refer to OHS CBT
 OHS workplace form
@@ -45,5 +42,10 @@ Beating the Blues
 Silvercloud
 Self-praise
 Headspace
+
+## CPD tickler
+Resillience course
+Read Time Management in the Consultation
+
 
 
