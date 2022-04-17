@@ -1,11 +1,10 @@
 # To do
 
 ## Next
-- Next song
-
-- Isms system exploration
-- Mutable system exploration
-- TSNM system exploration
+- Try UM-1 with Wingie
+- Set up stands 
+ 
+- Finish song
 
 - Work on website
 
@@ -13,7 +12,7 @@
 - Process digitone with MI system
 - Slow chord progression over the top
 - Written on guitar, even if not played with guitar
-- Done
+- Distorted synth line 
 
 ## Website
 - Simplify to just music
