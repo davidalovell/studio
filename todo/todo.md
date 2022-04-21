@@ -21,11 +21,12 @@ OR arrange pickup for bench
 Have a look on Next for holiday clothes
 Fix the curtain pole
 Have a look at stag do spreadsheet
+Put leave in calendar (see email from Paige)
+(Week of 18th July)
 
 ## Next week
 Go to practice
 Tell Paige about appt on 16/05/2022 at 11:00
-Put leave in calendar (see email from Paige)
 Work out if possible to visit Richard
 Finish early 29th July to collect Alasdair
 
