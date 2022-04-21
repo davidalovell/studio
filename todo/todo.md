@@ -27,6 +27,7 @@ Go to practice
 Tell Paige about appt on 16/05/2022 at 11:00
 Put leave in calendar (see email from Paige)
 Work out if possible to visit Richard
+Finish early 29th July to collect Alasdair
 
 # SOME  TIME
 ## Admin
