@@ -1,8 +1,16 @@
 # To do
 
 ## Next
-- Try UM-1 with Wingie
+- Plug in shield
+- Connect shield audio
+- Rename shield address
+- Connect shield, plinky, wingie in series
+- But another raspberry pi power supply
+- 
+- Try another microphone
+- 
 - Finish song
+- 
 - Work on website
 
 ## Song
