@@ -6,23 +6,25 @@ Music (planning/playing)
 CBT thought record
 
 ## Today
-eConsult
-Object to planning application
-Rearrange OHS appointment
-Cancel Book of Mormon
-Meal planning for stag
-Read sustainability loan details
-Electric car charging point setup
-Send payments to Lyn - check bank details
-Clear out emails
 Destroy garden bench
-Book slot at the dump
-OR arrange pickup for bench
-Have a look on Next for holiday clothes
-Fix the curtain pole
+
 Have a look at stag do spreadsheet
-Put leave in calendar (see email from Paige)
-(Week of 18th July)
+Meal planning for stag
+
+Read sustainability loan details
+
+Rearrange OHS appointment
+
+Cancel Book of Mormon
+Electric car charging point setup
+Object to planning application
+
+Have a look on Next for holiday clothes
+
+Fix the curtain pole
+
+Send payments to Lyn - check bank details
+Put leave in calendar (see email from Paige), (Week of 18th July)
 
 ## Next week
 Go to practice
