@@ -6,6 +6,10 @@ Music (planning/playing)
 CBT thought record
 
 ## Today
+Return Lynn's package
+
+eBay all items
+
 Destroy garden bench
 
 Have a look at stag do spreadsheet
@@ -16,7 +20,9 @@ Read sustainability loan details
 Rearrange OHS appointment
 
 Cancel Book of Mormon
+
 Electric car charging point setup
+
 Object to planning application
 
 Have a look on Next for holiday clothes
@@ -24,7 +30,18 @@ Have a look on Next for holiday clothes
 Fix the curtain pole
 
 Send payments to Lyn - check bank details
+
 Put leave in calendar (see email from Paige), (Week of 18th July)
+
+Read schema
+Letter to Dad!
+Cancel Spotify next month
+
+Get Lynn on Apple music
+
+Resillience course
+
+Reads Time Management in the Consultation
 
 ## Next week
 Go to practice
@@ -36,8 +53,6 @@ Finish early 29th July to collect Alasdair
 ## Admin
 Update address for driving licence
 Boiler service
-Cancel Spotify next month
-Get Lynn on Apple music
 
 ## Mental health tickler
 Self-referral to practitioner help as per GP
@@ -49,11 +64,7 @@ Silvercloud
 Self-praise
 Headspace
 If I am feeling criticised - check it out!
-Letter to Dad!
 
-## CPD tickler
-Resillience course
-Read Time Management in the Consultation
 
 
 
