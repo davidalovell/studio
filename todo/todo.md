@@ -9,7 +9,6 @@ CBT thought record
 ## Next
 Return Lynn's package
 Pack up and send module
-Cancel Book of Mormon
 Send payments to Lyn - check bank details
 Put leave in calendar (see email from Paige)
 
@@ -27,6 +26,7 @@ Holiday clothes
 Fix the curtain pole
 New phone?
 Go to practice
+Look at Aberdeen performing arts
 
 ## Leave
 Tell Paige about appt on 16/05/2022 at 11:00 (fertility)
