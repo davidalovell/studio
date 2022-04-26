@@ -1,78 +1,65 @@
 # TO DO
 ## Planning your day
 Do one uncomfortable thing every day
+Do some things from the to do list every day
 Exercise
 Music (planning/playing)
 CBT thought record
 
-## Today
+## Next
 Return Lynn's package
-
-eBay all items
-
-Destroy garden bench
+Pack up and send module
+Rearrange OHS appointment
+Cancel Book of Mormon
+Send payments to Lyn - check bank details
+Put leave in calendar (see email from Paige)
 
 Have a look at stag do spreadsheet
 Meal planning for stag
 
 Read sustainability loan details
 
-Rearrange OHS appointment
-
-Cancel Book of Mormon
-
+## Soon
 Electric car charging point setup
-
 Object to planning application
-
-Have a look on Next for holiday clothes
-
-Fix the curtain pole
-
-Send payments to Lyn - check bank details
-
-Put leave in calendar (see email from Paige), (Week of 18th July)
-
-Read schema
-Letter to Dad!
 Cancel Spotify next month
-
 Get Lynn on Apple music
-
-Resillience course
-
-Reads Time Management in the Consultation
+Holiday clothes
+Fix the curtain pole
 
 ## Next week
 Go to practice
 Tell Paige about appt on 16/05/2022 at 11:00
-Work out if possible to visit Richard
 Finish early 29th July to collect Alasdair
 
-# SOME  TIME
-## Admin
+## Some time
 Update address for driving licence
 Boiler service
 
-## Mental health tickler
+## Mental health resources
 Self-referral to practitioner help as per GP
 Self-refer to OHS CBT
 OHS workplace form
 Look at OHS resources
 Beating the Blues
 Silvercloud
-Self-praise
 Headspace
+
+## Jane
+Self-praise
 If I am feeling criticised - check it out!
+If Lynn seems quiet - check it out!
+Plan a trip
+Work out if possible to visit Richard
+Read schema
+Letter to Dad!
 
-
-
-
-
-
-
+## Work ideas
 Reduce sessions
 Accountant
 Breaks
+Resillience course
+Read Time Management in the Consultation
+
 
 
