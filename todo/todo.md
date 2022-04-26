@@ -26,6 +26,7 @@ Cancel Spotify next month
 Get Lynn on Apple music
 Holiday clothes
 Fix the curtain pole
+New phone?
 
 ## Next week
 Go to practice
