@@ -26,7 +26,6 @@ Holiday clothes
 Fix the curtain pole
 New phone?
 Go to practice
-Look at Aberdeen performing arts
 
 ## Leave
 Tell Paige about appt on 16/05/2022 at 11:00 (fertility)
@@ -36,6 +35,7 @@ Finish early 29th July to collect Alasdair
 ## Some time
 Update address for driving licence
 Boiler service
+Look at Aberdeen performing arts (£109 credit)
 
 ## Mental health resources
 Self-referral to practitioner help as per GP
