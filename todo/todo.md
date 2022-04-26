@@ -9,7 +9,6 @@ CBT thought record
 ## Next
 Return Lynn's package
 Pack up and send module
-Rearrange OHS appointment
 Cancel Book of Mormon
 Send payments to Lyn - check bank details
 Put leave in calendar (see email from Paige)
@@ -27,10 +26,11 @@ Get Lynn on Apple music
 Holiday clothes
 Fix the curtain pole
 New phone?
-
-## Next week
 Go to practice
-Tell Paige about appt on 16/05/2022 at 11:00
+
+## Leave
+Tell Paige about appt on 16/05/2022 at 11:00 (fertility)
+Tell Paige about appt on 01/06/2022 at 10:45 (OHS)
 Finish early 29th July to collect Alasdair
 
 ## Some time
