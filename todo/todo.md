@@ -7,10 +7,9 @@ Music (planning/playing)
 CBT thought record
 
 ## Next
+Go to Replenish
 Return Lynn's package
 Pack up and send module
-Send payments to Lyn - check bank details
-Put leave in calendar (see email from Paige)
 
 Have a look at stag do spreadsheet
 Meal planning for stag
@@ -25,9 +24,10 @@ Get Lynn on Apple music
 Holiday clothes
 Fix the curtain pole
 New phone?
-Go to practice
+Go to the practice
 
 ## Leave
+Double check leave when in practice
 Tell Paige about appt on 16/05/2022 at 11:00 (fertility)
 Tell Paige about appt on 01/06/2022 at 10:45 (OHS)
 Finish early 29th July to collect Alasdair
@@ -54,6 +54,7 @@ Plan a trip
 Work out if possible to visit Richard
 Read schema
 Letter to Dad!
+Tell Lynn I want to be more assertive
 
 ## Work ideas
 Reduce sessions
