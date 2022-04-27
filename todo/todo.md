@@ -7,22 +7,26 @@ Music (planning/playing)
 CBT thought record
 
 ## Next
+Run
 Go to Replenish
-Return Lynn's package
-Pack up and send module
+Go to Post Office
+Go to Pharmacy
 
 Meal planning for stag
 
 Read sustainability loan details
 
-## Soon
 Electric car charging point setup
+
 Object to planning application
-Cancel Spotify next month
-Get Lynn on Apple music
-Holiday clothes
+
 Fix the curtain pole
 Hang pictures
+
+## Soon
+Holiday clothes
+Cancel Spotify next month
+Get Lynn on Apple music
 New phone?
 Go to the practice
 
