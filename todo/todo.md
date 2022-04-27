@@ -23,6 +23,7 @@ Cancel Spotify next month
 Get Lynn on Apple music
 Holiday clothes
 Fix the curtain pole
+Hang pictures
 New phone?
 Go to the practice
 
