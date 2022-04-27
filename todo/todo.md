@@ -11,7 +11,6 @@ Go to Replenish
 Return Lynn's package
 Pack up and send module
 
-Have a look at stag do spreadsheet
 Meal planning for stag
 
 Read sustainability loan details
