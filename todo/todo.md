@@ -19,6 +19,8 @@ Hang pictures
 
 Water the garden
 
+Lego club 5-6.30 on Tuesdays
+
 ## Soon
 Book some places to eat
 Holiday clothes
