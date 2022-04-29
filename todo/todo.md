@@ -7,26 +7,28 @@ Music (planning/playing)
 CBT thought record
 
 ## Next
-Coffee machine
+Exercise
+Electric car charging point setup
+Water the garden
+Do some more garage tidying
 
-Make a start listing modules to sell
-
+Create listings for WMD / SSF modules
 Read sustainability loan details
 
-Electric car charging point setup
+Thought record
+Perfectionism
+Letter to Dad
 
-Hang pictures
+New phone?
 
-Water the garden
-
-Lego club 5-6.30 on Tuesdays
 
 ## Soon
-Book some places to eat
 Holiday clothes
+Book some places to eat
 Cancel Spotify next month
 Get Lynn on Apple music
-New phone?
+Hang pictures
+
 Go to the practice
 
 ## Leave
@@ -39,6 +41,7 @@ Finish early 29th July to collect Alasdair
 Update address for driving licence
 Boiler service
 Look at Aberdeen performing arts (£109 credit)
+Lego club 5-6.30 on Tuesdays
 
 ## Mental health resources
 Self-referral to practitioner help as per GP
