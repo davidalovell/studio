@@ -1,33 +1,25 @@
 # TO DO
 ## Planning your day
-Do one uncomfortable thing every day
-Do some things from the to do list every day
+Identify your intentions
+Make a realistic to do list
 Exercise
 Music (planning/playing)
 CBT thought record
 
 ## Next
-Exercise
-Electric car charging point setup
-Water the garden
-Do some more garage tidying
-
-Create listings for WMD / SSF modules
-Read sustainability loan details
-
 Thought record
-Perfectionism
+Read perfectionism schema
 Letter to Dad
 
 New phone?
+Holiday clothes
 
+Sustainability loan reading
 
 ## Soon
-Holiday clothes
-Book some places to eat
+Book some places to eat for stag
 Cancel Spotify next month
 Get Lynn on Apple music
-Hang pictures
 
 Go to the practice
 
@@ -42,6 +34,7 @@ Update address for driving licence
 Boiler service
 Look at Aberdeen performing arts (£109 credit)
 Lego club 5-6.30 on Tuesdays
+Hang pictures
 
 ## Mental health resources
 Self-referral to practitioner help as per GP
