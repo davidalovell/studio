@@ -14,6 +14,8 @@ Letter to Dad
 New phone?
 Holiday clothes
 
+Take pictures of modules
+
 Sustainability loan reading
 
 ## Soon
