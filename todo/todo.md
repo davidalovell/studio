@@ -12,6 +12,7 @@ Read perfectionism schema
 Letter to Dad
 Holiday clothes
 Sustainability loan reading
+Put stuff from mind dump into tickler
 
 ## Soon
 Cancel Spotify next month
@@ -31,6 +32,7 @@ Boiler service
 Look at Aberdeen performing arts (£109 credit)
 Lego club 5-6.30 on Tuesdays
 Hang pictures
+Pavement flights
 
 ## Mental health resources
 Self-referral to practitioner help as per GP
