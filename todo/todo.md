@@ -10,20 +10,14 @@ CBT thought record
 Thought record
 Read perfectionism schema
 Letter to Dad
-
-New phone?
 Holiday clothes
-
-Take pictures of modules
-
 Sustainability loan reading
 
 ## Soon
-Book some places to eat for stag
 Cancel Spotify next month
 Get Lynn on Apple music
-
 Go to the practice
+New phone?
 
 ## Leave
 Double check leave when in practice
