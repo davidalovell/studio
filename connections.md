@@ -21,7 +21,6 @@
 - Digitone
 - Analog Four
 - Keystep
-- MC-24
  
 ### Mac USB hub
 - Keyboard
@@ -71,8 +70,8 @@
 - In D:
 - Out A: Digitone
 - Out B: Modular 
-- Out C: Erebus 
-- Out D: *Pedal chain*
+- Out C: UM-ONE to Shield 
+- Out D: MIDI Splitter (*Pedal chain*, Wingie)
 
 ### Pedal chain
 - 1: Timeline (Channel 1)
