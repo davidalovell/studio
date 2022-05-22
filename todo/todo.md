@@ -22,8 +22,7 @@ New phone?
 
 ## Leave
 Double check leave when in practice
-Tell Paige about appt on 16/05/2022 at 11:00 (fertility)
-Tell Paige about appt on 01/06/2022 at 10:45 (OHS)
+Tell Paige about appt on 01/07/2022 at 10:45 (OHS)
 Finish early 29th July to collect Alasdair
 
 ## Some time
