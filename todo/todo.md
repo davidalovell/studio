@@ -7,23 +7,7 @@ Music (planning/playing)
 CBT thought record
 
 ## Next
-Thought record
-Read perfectionism schema
-Letter to Dad
-Holiday clothes
-Sustainability loan reading
-Put stuff from mind dump into tickler
 
-## Soon
-Cancel Spotify next month
-Get Lynn on Apple music
-Go to the practice
-New phone?
-
-## Leave
-Double check leave when in practice
-Tell Paige about appt on 01/07/2022 at 10:45 (OHS)
-Finish early 29th July to collect Alasdair
 
 ## Some time
 Update address for driving licence
@@ -42,15 +26,12 @@ Beating the Blues
 Silvercloud
 Headspace
 
-## Jane
+## Mental ideas
 Self-praise
 If I am feeling criticised - check it out!
 If Lynn seems quiet - check it out!
 Plan a trip
 Work out if possible to visit Richard
-Read schema
-Letter to Dad!
-Tell Lynn I want to be more assertive
 
 ## Work ideas
 Reduce sessions
