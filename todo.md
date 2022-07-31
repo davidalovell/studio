@@ -1,12 +1,7 @@
 # To do
 
 ## Next
-Work on a patch for a new song
 Work on setup
-Work on website
-
-Why don't you take out the palette case again?
-You could change one of the knob functions to a clock divider which would help when used with w/
 
 ## Song idea
 Sparse
@@ -18,12 +13,15 @@ Think about the notes that define the chords and use them
 Make it quite short
 
 ## Setup
-Connect shield power
-Connect shield audio
-Rename shield
-Connect shield, plinky, wingie in series
-But another raspberry pi power supply
+Connect Oto Machines power and MIDI
+Document MIDI changes
+Move Analog Drive
+Make a guitar pedal setup
 
 ## Website
 Simplify to just music
 Upload mp3s
+
+## Palette
+Why don't you take out the palette case again?
+You could change one of the knob functions to a clock divider which would help when used with w/
