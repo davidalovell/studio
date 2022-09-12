@@ -13,10 +13,8 @@ Think about the notes that define the chords and use them
 Make it quite short
 
 ## Setup
-Connect Oto Machines power and MIDI
+Connect Oto Machines to MIDI
 Document MIDI changes
-Move Analog Drive
-Make a guitar pedal setup
 
 ## Website
 Simplify to just music
