@@ -6,6 +6,3 @@ Address:	Hill House, Charleston, Gairloch, Ross Shire, IV21 2AH
 
 ### School
 School login: 310817Bodger£
-
-### Personal
-Paddleboarding

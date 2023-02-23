@@ -93,25 +93,14 @@ TIDY UP
 - Marantz PMD-222 #2
 
 ## Sell
-- FH-2
-- Dreadbox Erebus
-- OM-1  
-- Sascha Van Ott system - 6x modules and case
-- 23x WMD SSF modules
-- Bits and bobs
-
-## Website
-a### Instagram
-- Come up with a plan for posting pictures and videos
+- Maths
+- Teletype
+- Ansible
 
 ### Soundcloud
 - Tidy up page
 - Better photos
 - Just a block of colour at the top?
-- 
-- 
-- 
-
 
  ## Norns studies
 - Make use of params
@@ -154,20 +143,3 @@ a### Instagram
 - Practise sound-on-sound loops
 - Practise layering loops that slowly fade out
 - Clocked delays
-
-## Website
-- home
-  - add photo
-- posts
-  - add photo to first post
-  - have a look through some audio and upload
-  - TSNM system post
-  - switching sequencer song post
-- audio
-  - media player with playlist of all audio
-- about
-  - write an about section
-  - Instagram link
-  - Soundcloud link
-- section about pork & beef
-

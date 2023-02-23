@@ -16,10 +16,63 @@ Make it quite short
 Connect Oto Machines to MIDI
 Document MIDI changes
 
-## Website
-Simplify to just music
-Upload mp3s
-
 ## Palette
 Why don't you take out the palette case again?
 You could change one of the knob functions to a clock divider which would help when used with w/
+
+
+
+
+
+
+
+Bedroom Wardrobes
+
+Measure:
+- Width:
+- Height:
+
+Depth:
+  - of existing shelves = 45cm
+  - to wooden lip of doorway = 58cm
+
+Internal dimensions of Dave's space
+  h 1680 (up to supporting bracket)
+  d 450 (of existing shelves)
+  w 845
+  would need open shelving to go below daves hung up clothes
+
+Internal demensions of middle space
+  h 1680 (up to supporting bracket)
+  d 433 (450 excluding panel supporting shelf
+  w 50
+
+Ideas:
+- ?Start again
+- ?Leave everything as it is
+- Remove shelves
+- Remove middle section
+- Line up new sections with doors
+
+Where to store stuff:
+- Boxes
+- Shelves
+- Drawers
+- Books on shelves
+
+Alasdair
+- Thin books
+- Thick books
+- Cuddly toys
+- Bedsheets
+- Stored toys
+
+Dave
+- Clothes on hangers
+- Folded clothes
+- Clothes to charity shop
+- Dressing gowns - ?hooks
+
+Lynn
+- Clothes
+
