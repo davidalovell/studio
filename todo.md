@@ -44,8 +44,13 @@ Internal dimensions of Dave's space
 
 Internal demensions of middle space
   h 1680 (up to supporting bracket)
-  d 433 (450 excluding panel supporting shelf
+  d 430 (450 excluding panel supporting shelf
   w 50
+
+Internal dimensions of Lynn's space
+  h 1680
+  d 450
+  w 1235
 
 Ideas:
 - ?Start again
