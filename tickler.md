@@ -80,7 +80,18 @@ TIDY UP
 - Try a few out and then upload a few simple ones in that you can learn 
 - More reverb effects! 
 
+## Firmware
+- Just Friends
+  - https://github.com/whimsicalraps/Just-Friends/releases/tag/v4.5.2
+- Disting Ex
+- Plaits
+- ER-301
+- Digitone
+- Digitakt
+- FXaid presets
+
 ## Mutable System
+- Learn a module each patching session
 - Write a helper document
 
 ## Mac
@@ -99,8 +110,7 @@ TIDY UP
 
 ### Soundcloud
 - Tidy up page
-- Better photos
-- Just a block of colour at the top?
+- Just upload stuff
 
  ## Norns studies
 - Make use of params
