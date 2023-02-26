@@ -89,6 +89,8 @@ TIDY UP
 - Digitone
 - Digitakt
 - FXaid presets
+- Sweet Sixteen
+  - https://github.com/M4ngu/Sweet-Sixteen/pull/5
 
 ## Mutable System
 - Learn a module each patching session
